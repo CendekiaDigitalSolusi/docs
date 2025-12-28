@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Selamat Datang](README.md)
+* [Memulai](memulai.md)
 
-## Getting Started
+## Autentikasi
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Registrasi](autentikasi/quickstart.md)
+* [Masuk](autentikasi/publish-your-docs.md)
+* [Lupa Kata Sandi](autentikasi/publish-your-docs-1.md)
 
-## Basics
+## Dasar
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Data Sekolah](dasar/editor.md)
+* [Berlangganan](dasar/markdown.md)
+* [Trial](dasar/markdown-1.md)
