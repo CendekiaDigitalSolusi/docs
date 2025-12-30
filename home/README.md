@@ -25,19 +25,19 @@ metaLinks:
 
 <p align="center">Selamat datang di portal dokumentasi PT Cendekia Digital Solusi</p>
 
-<p align="center"><a href="https://cendekiadigitalsolusi.co.id/" class="button primary">Home</a> </p>
+<p align="center"><a href="https://cendekiadigitalsolusi.co.id/" class="button primary">Home</a></p>
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 <figure><img src=".gitbook/assets/Screenshot 2025-12-27 185753.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 ### Gradynex - One Stop School Platform
 
 Sebuah platform manajemen sekolah yang terintegrasi mulai dari sistem manajemen sekolah, sistem akademik, LMS dan kebutuhan lainnya.
 
-<a href="https://gradynex.com/" class="button primary" data-icon="book-open">Register</a> <a href="https://app.gitbook.com/o/yirWJgsdjJPwrQWbDq72/s/kv5Qs0gor8p1LO7w26PA/" class="button secondary" data-icon="book">Documentation</a>
+<a href="https://gradynex.com/" class="button primary" data-icon="book-open">Daftar</a> <a href="https://app.gitbook.com/o/yirWJgsdjJPwrQWbDq72/s/kv5Qs0gor8p1LO7w26PA/" class="button secondary" data-icon="book">Dokumentasi Aplikasi Central</a> <a href="https://app.gitbook.com/o/yirWJgsdjJPwrQWbDq72/s/qXW54ouFQKWFRt6qnbws/" class="button secondary" data-icon="book">Dokumentasi Aplikasi Tenant</a>
 {% endcolumn %}
 {% endcolumns %}
 
