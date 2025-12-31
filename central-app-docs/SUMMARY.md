@@ -11,6 +11,6 @@
 
 ## Dasar
 
-* [Data Sekolah](dasar/editor.md)
-* [Berlangganan](dasar/markdown.md)
-* [Trial](dasar/markdown-1.md)
+* [Data Sekolah](dasar/data-sekolah.md)
+* [Berlangganan](dasar/berlangganan.md)
+* [Trial](dasar/trial.md)

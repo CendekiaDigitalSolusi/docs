@@ -44,16 +44,16 @@ Untuk memulai menggunakan sistem gradynex dengan mudah silahkan ikuti petunjuk d
 {% step %}
 #### Verifikasi Data Sekolah
 
-{% content-ref url="dasar/editor.md" %}
-[editor.md](dasar/editor.md)
+{% content-ref url="dasar/data-sekolah.md" %}
+[data-sekolah.md](dasar/data-sekolah.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
 ### Berlangganan
 
-{% content-ref url="dasar/markdown.md" %}
-[markdown.md](dasar/markdown.md)
+{% content-ref url="dasar/berlangganan.md" %}
+[berlangganan.md](dasar/berlangganan.md)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
