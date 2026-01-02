@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Selamat Datang](README.md)
+* [Dokumentasi Aplikasi Central](README.md)
 * [Memulai](memulai.md)
 
 ## Autentikasi

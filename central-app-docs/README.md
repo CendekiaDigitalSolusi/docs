@@ -19,7 +19,9 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Selamat Datang
+# Dokumentasi Aplikasi Central
+
+Selamat datang dihalaman dokumentasi aplikasi central. Pada halaman ini akan menjelaskan berbagai cara yang ada di dalam sistem gradynex khususnya pada aplikasi central / aplikasi yang mengatur langganan Anda atau website sekolah Anda.
 
 Gradynex merupakan sebuah sistem manajemen sekolah terpadu dan terintegrasi. Gradynex menyediakan sistem manajemen sekolah, sistem akademik, LMS, dan fitur pendukung lainnya.
 
