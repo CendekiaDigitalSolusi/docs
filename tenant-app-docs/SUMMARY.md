@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Dokumentasi Aplikasi Tenant](README.md)
-* [Memulai](memulai.md)
 
 ## Autentikasi
 
