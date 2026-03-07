@@ -5,9 +5,9 @@
 
 ## Autentikasi
 
-* [Registrasi](autentikasi/quickstart.md)
-* [Masuk](autentikasi/publish-your-docs.md)
-* [Lupa Kata Sandi](autentikasi/publish-your-docs-1.md)
+* [Registrasi](autentikasi/registrasi.md)
+* [Masuk](autentikasi/masuk.md)
+* [Lupa Kata Sandi](autentikasi/lupa-kata-sandi.md)
 
 ## Dasar
 

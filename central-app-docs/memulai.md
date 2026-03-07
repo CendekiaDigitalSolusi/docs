@@ -1,19 +1,5 @@
 ---
 icon: bolt
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Memulai
@@ -28,16 +14,16 @@ Untuk memulai menggunakan sistem gradynex dengan mudah silahkan ikuti petunjuk d
 {% step %}
 #### Registrasi
 
-{% content-ref url="autentikasi/quickstart.md" %}
-[quickstart.md](autentikasi/quickstart.md)
+{% content-ref url="autentikasi/registrasi.md" %}
+[registrasi.md](autentikasi/registrasi.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
 #### Masuk
 
-{% content-ref url="autentikasi/publish-your-docs.md" %}
-[publish-your-docs.md](autentikasi/publish-your-docs.md)
+{% content-ref url="autentikasi/masuk.md" %}
+[masuk.md](autentikasi/masuk.md)
 {% endcontent-ref %}
 {% endstep %}
 

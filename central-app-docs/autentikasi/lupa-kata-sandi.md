@@ -1,24 +1,10 @@
 ---
 icon: key
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Lupa Kata Sandi
 
-Jika Anda lupa kata sandi dari akun Anda, Anda dapat melakukan _request_ untuk mengganti kata sandi Anda hanya dengan menggunakan email saja. Jika belum punya akun, Anda dapat melakukan registrasi terlebih dahulu. [quickstart.md](quickstart.md "mention")
+Jika Anda lupa kata sandi dari akun Anda, Anda dapat melakukan _request_ untuk mengganti kata sandi Anda hanya dengan menggunakan email saja. Jika belum punya akun, Anda dapat melakukan registrasi terlebih dahulu. [registrasi.md](registrasi.md "mention")
 
 1. Silahkan akses [gradynex.com](https://gradynex.com) lalu klik tombol **Masuk.**
 2. Lalu pada halaman masuk, silahkan klik **Lupa Kata Sandi**
