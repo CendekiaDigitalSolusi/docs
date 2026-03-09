@@ -155,4 +155,4 @@ Pakai **Terbitkan** kalau:
 
 #### Tidak bisa akses menu Halaman
 
-Cek izin akun di [Hak Akses](../hak-akses.md).
+Cek izin akun di [Hak Akses](../peran.md).

@@ -1,23 +1,8 @@
 ---
 icon: key
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/kv5Qs0gor8p1LO7w26PA/autentikasi/publish-your-docs-1
+    - https://app.gitbook.com/s/kv5Qs0gor8p1LO7w26PA/autentikasi/lupa-kata-sandi
 ---
 
 # Lupa Kata Sandi

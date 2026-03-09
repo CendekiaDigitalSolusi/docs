@@ -203,4 +203,4 @@ Tombol: **Terbitkan**.
 
 #### Tidak bisa melihat menu Berita
 
-Akun kamu mungkin tidak punya izin. Cek di [Hak Akses](../hak-akses.md).
+Akun kamu mungkin tidak punya izin. Cek di [Hak Akses](../peran.md).

@@ -84,7 +84,7 @@ Hapus sebaiknya untuk spam atau pelanggaran jelas.
 
 #### Menu Komentar tidak ada
 
-Akun kamu tidak punya izin. Cek di [Hak Akses](../hak-akses.md).
+Akun kamu tidak punya izin. Cek di [Hak Akses](../peran.md).
 
 #### Komentar tidak muncul di halaman publik
 

@@ -43,5 +43,5 @@ Moderasi [Komentar](komentar.md) untuk menghapus spam dan memastikan etika.
 <table data-view="cards"><thead><tr><th>Fitur</th><th>Ringkas</th><th data-card-target data-type="content-ref">Buka</th></tr></thead><tbody><tr><td><strong>Slider Gambar</strong></td><td>Kelola gambar slider di halaman publik.</td><td><a href="slider-gambar.md">slider-gambar.md</a></td></tr><tr><td><strong>Berita</strong></td><td>Tulis, simpan draft, dan terbitkan artikel.</td><td><a href="berita.md">berita.md</a></td></tr><tr><td><strong>Halaman</strong></td><td>Buat konten statis seperti Profil dan Kontak.</td><td><a href="halaman.md">halaman.md</a></td></tr><tr><td><strong>Komentar</strong></td><td>Moderasi komentar, bersihkan spam.</td><td><a href="komentar.md">komentar.md</a></td></tr><tr><td><strong>Kategori</strong></td><td>Kelompokkan artikel berdasarkan topik utama.</td><td><a href="kategori.md">kategori.md</a></td></tr><tr><td><strong>Tag</strong></td><td>Label topik untuk pencarian dan filter.</td><td><a href="tag.md">tag.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Jika ada menu Blog yang tidak muncul, cek role/izin di [Hak Akses](../hak-akses.md).
+Jika ada menu Blog yang tidak muncul, cek role/izin di [Hak Akses](../peran.md).
 {% endhint %}

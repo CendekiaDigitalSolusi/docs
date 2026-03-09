@@ -47,5 +47,5 @@ Lihat: [Pengaturan Blog](blog/)
 <table data-view="cards"><thead><tr><th>Menu</th><th>Dipakai untuk</th><th data-card-target data-type="content-ref">Buka</th></tr></thead><tbody><tr><td><strong>Pengaturan Umum</strong></td><td>SEO dasar, logo, favicon, zona waktu, reCAPTCHA.</td><td><a href="pengaturan-umum.md">pengaturan-umum.md</a></td></tr><tr><td><strong>Pengaturan Server Email</strong></td><td>SMTP untuk email sistem (reset password, notifikasi).</td><td><a href="pengaturan-server-email.md">pengaturan-server-email.md</a></td></tr><tr><td><strong>Profil Sekolah</strong></td><td>Identitas sekolah, alamat, kepala sekolah, medsos, statistik.</td><td><a href="profil-sekolah.md">profil-sekolah.md</a></td></tr><tr><td><strong>Pengaturan Blog</strong></td><td>Default tampilan blog dan aturan komentar.</td><td><a href="blog/">blog</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Kalau ada pengaturan yang tidak muncul, biasanya karena role/izin akun. Cek di [Hak Akses](../hak-akses.md).
+Kalau ada pengaturan yang tidak muncul, biasanya karena role/izin akun. Cek di [Hak Akses](../peran.md).
 {% endhint %}

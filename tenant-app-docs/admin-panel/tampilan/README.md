@@ -33,5 +33,5 @@ Lihat: [Menu](menu.md)
 <table data-view="cards"><thead><tr><th>Fitur</th><th>Ringkas</th><th data-card-target data-type="content-ref">Buka</th></tr></thead><tbody><tr><td><strong>Menu</strong></td><td>Kelola navigasi header/footer, struktur, dan link.</td><td><a href="menu.md">menu.md</a></td></tr><tr><td><strong>Tema</strong></td><td>Pilih tema, impor tema baru, dan rollback tema.</td><td><a href="tema.md">tema.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Jika tombol/fitur Tampilan tidak muncul, biasanya karena izin akun. Cek di [Hak Akses](../hak-akses.md).
+Jika tombol/fitur Tampilan tidak muncul, biasanya karena izin akun. Cek di [Hak Akses](../peran.md).
 {% endhint %}

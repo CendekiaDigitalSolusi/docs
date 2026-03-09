@@ -168,4 +168,4 @@ Kalau kamu hapus item yang sedang dipakai di **Struktur Menu**, navigasi publik 
 
 #### Tidak bisa akses halaman Menu
 
-Cek role/izin akun di [Hak Akses](../hak-akses.md).
+Cek role/izin akun di [Hak Akses](../peran.md).

@@ -115,4 +115,4 @@ Jangan hapus tema default jika tidak yakin. Simpan minimal satu tema cadangan un
 
 #### Tidak ada tombol Impor Tema
 
-Kemungkinan akun kamu tidak punya izin. Cek di [Hak Akses](../hak-akses.md).
+Kemungkinan akun kamu tidak punya izin. Cek di [Hak Akses](../peran.md).

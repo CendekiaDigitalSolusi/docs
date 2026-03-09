@@ -11,7 +11,7 @@
 
 * [Dashboard Admin](admin-panel/dashboard-admin.md)
 * [Pengguna](admin-panel/pengguna.md)
-* [Hak Akses](admin-panel/hak-akses.md)
+* [Peran](admin-panel/peran.md)
 * [Blog](admin-panel/blog/README.md)
   * [Slider Gambar](admin-panel/blog/slider-gambar.md)
   * [Berita](admin-panel/blog/berita.md)
@@ -22,6 +22,7 @@
 * [Tampilan](admin-panel/tampilan/README.md)
   * [Menu](admin-panel/tampilan/menu.md)
   * [Tema](admin-panel/tampilan/tema.md)
+  * [Modul](admin-panel/tampilan/modul.md)
 * [Pengaturan](admin-panel/pengaturan/README.md)
   * [Pengaturan Umum](admin-panel/pengaturan/pengaturan-umum.md)
   * [Pengaturan Server Email](admin-panel/pengaturan/pengaturan-server-email.md)

@@ -1,19 +1,5 @@
 ---
 icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/kv5Qs0gor8p1LO7w26PA/

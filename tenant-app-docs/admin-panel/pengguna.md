@@ -96,7 +96,7 @@ Pastikan role yang dipilih sudah benar.\
 Role menentukan menu dan hak akses pengguna.
 {% endhint %}
 
-Butuh atur role? Lihat halaman [Hak Akses](hak-akses.md).
+Butuh atur role? Lihat halaman [Hak Akses](peran.md).
 
 ***
 
@@ -135,7 +135,7 @@ Hapus akun bisa membuat pengguna kehilangan akses permanen. Pastikan akun terseb
 
 #### Tidak bisa melihat menu Pengguna
 
-Akun kamu tidak punya izin admin. Cek di [Hak Akses](hak-akses.md).
+Akun kamu tidak punya izin admin. Cek di [Hak Akses](peran.md).
 
 #### Filter tidak bekerja / hasil selalu kosong
 
