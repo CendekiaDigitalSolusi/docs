@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/peran",
+  "title": "Peran / Hak Akses",
+  "description": "Halaman Peran digunakan untuk mengatur role (peran) pengguna di aplikasi. Peran menentukan menu dan aksi apa saja yang dapat diakses oleh pengguna.",
+  "source": "@site/gradynex/tenant-app/admin-panel/peran.md",
+  "sourceDirName": "tenant-app/admin-panel",
+  "slug": "/tenant-app/admin-panel/peran",
+  "permalink": "/gradynex/tenant-app/admin-panel/peran",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Pengguna",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengguna"
+  },
+  "next": {
+    "title": "Berita",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/berita"
+  }
+}

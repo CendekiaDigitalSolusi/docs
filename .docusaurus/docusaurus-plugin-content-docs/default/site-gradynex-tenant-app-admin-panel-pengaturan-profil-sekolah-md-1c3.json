@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "title": "Profil Sekolah",
+  "description": "Halaman Profil Sekolah menyimpan data identitas sekolah yang digunakan di berbagai tempat dalam sistem.",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Pengaturan Umum",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum"
+  },
+  "next": {
+    "title": "Pengaturan Server Email",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email"
+  }
+}

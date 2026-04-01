@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/menu",
+  "title": "Menu",
+  "description": "Halaman Menu digunakan untuk mengatur navigasi website sekolah. Anda dapat mengelola menu untuk Header dan Footer (atau varian lain yang tersedia).",
+  "source": "@site/gradynex/tenant-app/admin-panel/tampilan/menu.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/menu",
+  "permalink": "/gradynex/tenant-app/admin-panel/tampilan/menu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Komentar",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/komentar"
+  },
+  "next": {
+    "title": "Modul",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/modul"
+  }
+}

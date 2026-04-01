@@ -1,0 +1,17 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/README",
+  "title": "Pengaturan",
+  "description": "Modul Pengaturan memungkinkan Anda mengkonfigurasi sistem sesuai kebutuhan sekolah Anda.",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengaturan/README.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

@@ -1,0 +1,181 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a simple framework used to
+ * ensure consistency and to provide commonly used CSS utilities and to
+ * support styling consistency across the Docusaurus ecosystem.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29975d;
+  --ifm-color-primary-darker: #1c5936;
+  --ifm-color-primary-darkest: #1d3557;
+  --ifm-color-primary-light: #4da668;
+  --ifm-color-primary-lighter: #6cb381;
+  --ifm-color-primary-lightest: #a8d5ba;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #4da668;
+  --ifm-color-primary-dark: #2e8555;
+  --ifm-color-primary-darker: #29975d;
+  --ifm-color-primary-darkest: #1c5936;
+  --ifm-color-primary-light: #6cb381;
+  --ifm-color-primary-lighter: #a8d5ba;
+  --ifm-color-primary-lightest: #c8e6d7;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: var(--docusaurus-highlighted-code-line-bg);
+  display: block;
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.home-shell {
+  padding: 3.5rem 0 2.5rem;
+  background:
+    radial-gradient(circle at 85% 15%, rgba(77, 166, 104, 0.16), transparent 35%),
+    radial-gradient(circle at 12% 88%, rgba(29, 53, 87, 0.12), transparent 28%);
+}
+
+.home-hero h1 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  letter-spacing: -0.02em;
+}
+
+.home-kicker {
+  display: inline-block;
+  margin: 0 0 0.7rem;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: rgba(46, 133, 85, 0.14);
+  color: #1c5936;
+  font-weight: 700;
+}
+
+.home-subtitle {
+  max-width: 760px;
+  margin-top: 1rem;
+  font-size: 1.05rem;
+}
+
+.home-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.35rem;
+}
+
+.home-catalog {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.home-card {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 14px;
+  padding: 1rem;
+  background: var(--ifm-background-surface-color);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  min-height: 220px;
+}
+
+.home-card h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.home-card p {
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
+  flex: 1;
+}
+
+.home-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.home-card-actions .button {
+  margin: 0;
+}
+
+.home-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.home-tag,
+.home-status {
+  font-size: 0.75rem;
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid transparent;
+}
+
+.home-tag {
+  background: rgba(29, 53, 87, 0.08);
+  color: #1d3557;
+}
+
+.home-status {
+  background: rgba(46, 133, 85, 0.14);
+  color: #1c5936;
+  font-weight: 600;
+}
+
+.home-card--central {
+  box-shadow: inset 0 0 0 1px rgba(77, 166, 104, 0.2);
+}
+
+.home-card--tenant {
+  box-shadow: inset 0 0 0 1px rgba(29, 53, 87, 0.18);
+}
+
+.home-card--support {
+  box-shadow: inset 0 0 0 1px rgba(52, 152, 219, 0.2);
+}
+
+.home-footnote {
+  margin-top: 1rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+[data-theme='dark'] .home-kicker {
+  background: rgba(168, 213, 186, 0.2);
+  color: #c8e6d7;
+}
+
+[data-theme='dark'] .home-tag {
+  background: rgba(200, 230, 215, 0.12);
+  color: #d8f2e2;
+}
+
+[data-theme='dark'] .home-status {
+  background: rgba(168, 213, 186, 0.2);
+  color: #d8f2e2;
+}

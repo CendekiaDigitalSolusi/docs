@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/komentar",
+  "title": "Komentar",
+  "description": "Komentar adalah tempat Anda mengelola tanggapan pengunjung pada Berita atau Halaman.",
+  "source": "@site/gradynex/tenant-app/admin-panel/blog/komentar.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/komentar",
+  "permalink": "/gradynex/tenant-app/admin-panel/blog/komentar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Slider Gambar",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/slider-gambar"
+  },
+  "next": {
+    "title": "Menu",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/menu"
+  }
+}

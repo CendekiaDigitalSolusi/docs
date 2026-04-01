@@ -1,0 +1,26 @@
+{
+  "id": "central-app/dasar/berlangganan",
+  "title": "Berlangganan",
+  "description": "Untuk berlangganan, Anda harus memenuhi beberapa persyaratan terlebih dahulu.",
+  "source": "@site/gradynex/central-app/dasar/berlangganan.md",
+  "sourceDirName": "central-app/dasar",
+  "slug": "/central-app/dasar/berlangganan",
+  "permalink": "/gradynex/central-app/dasar/berlangganan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Trial",
+    "permalink": "/gradynex/central-app/dasar/trial"
+  },
+  "next": {
+    "title": "Registrasi",
+    "permalink": "/gradynex/central-app/autentikasi/registrasi"
+  }
+}

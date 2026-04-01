@@ -1,0 +1,26 @@
+{
+  "id": "central-app/autentikasi/lupa-kata-sandi",
+  "title": "Lupa Kata Sandi",
+  "description": "Jika Anda lupa kata sandi dari akun Anda, Anda dapat melakukan permintaan untuk mengganti kata sandi Anda hanya dengan menggunakan email.",
+  "source": "@site/gradynex/central-app/autentikasi/lupa-kata-sandi.md",
+  "sourceDirName": "central-app/autentikasi",
+  "slug": "/central-app/autentikasi/lupa-kata-sandi",
+  "permalink": "/gradynex/central-app/autentikasi/lupa-kata-sandi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Masuk",
+    "permalink": "/gradynex/central-app/autentikasi/masuk"
+  },
+  "next": {
+    "title": "Data Sekolah",
+    "permalink": "/gradynex/central-app/dasar/data-sekolah"
+  }
+}

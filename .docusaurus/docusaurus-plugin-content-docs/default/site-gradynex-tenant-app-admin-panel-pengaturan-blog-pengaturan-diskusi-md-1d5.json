@@ -1,0 +1,22 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "title": "Pengaturan Diskusi",
+  "description": "Pengaturan Diskusi mengatur komentar pada artikel blog. Pengaturan ini menjadi default untuk artikel baru.",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan/blog",
+  "slug": "/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Pengaturan Membaca",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca"
+  }
+}

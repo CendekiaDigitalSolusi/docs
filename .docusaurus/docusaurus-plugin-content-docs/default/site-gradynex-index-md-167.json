@@ -1,0 +1,17 @@
+{
+  "id": "index",
+  "title": "Gradynex",
+  "description": "Halaman ini adalah pintu masuk utama dokumentasi Gradynex.",
+  "source": "@site/gradynex/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/gradynex/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gradynex",
+    "slug": "/"
+  }
+}

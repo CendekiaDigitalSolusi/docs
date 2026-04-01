@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/tag",
+  "title": "Tag",
+  "description": "Tag adalah \"label kecil\" untuk artikel. Jika Kategori adalah rak buku, Tag adalah stiker topik.",
+  "source": "@site/gradynex/tenant-app/admin-panel/blog/tag.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/tag",
+  "permalink": "/gradynex/tenant-app/admin-panel/blog/tag",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Kategori",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/kategori"
+  },
+  "next": {
+    "title": "Slider Gambar",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/slider-gambar"
+  }
+}

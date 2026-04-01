@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/kategori",
+  "title": "Kategori",
+  "description": "Kategori digunakan untuk mengelompokkan konten blog. Pikirkan kategori seperti \"rak buku\" untuk berita dan artikel.",
+  "source": "@site/gradynex/tenant-app/admin-panel/blog/kategori.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/kategori",
+  "permalink": "/gradynex/tenant-app/admin-panel/blog/kategori",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Halaman",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/halaman"
+  },
+  "next": {
+    "title": "Tag",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/tag"
+  }
+}

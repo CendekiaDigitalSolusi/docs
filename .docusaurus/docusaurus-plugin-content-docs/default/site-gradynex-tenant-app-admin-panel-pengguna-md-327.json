@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengguna",
+  "title": "Pengguna",
+  "description": "Halaman Pengguna digunakan untuk mengelola akun yang dapat masuk ke sistem Tenant.",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengguna.md",
+  "sourceDirName": "tenant-app/admin-panel",
+  "slug": "/tenant-app/admin-panel/pengguna",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengguna",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Dashboard Admin",
+    "permalink": "/gradynex/tenant-app/admin-panel/dashboard-admin"
+  },
+  "next": {
+    "title": "Peran / Hak Akses",
+    "permalink": "/gradynex/tenant-app/admin-panel/peran"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/pengaturan-umum",
+  "title": "Pengaturan Umum",
+  "description": "Pengaturan Umum adalah pusat konfigurasi dasar website sekolah. Di sini Anda dapat mengatur identitas brand, SEO dasar, zona waktu, dan keamanan (reCAPTCHA).",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/pengaturan-umum",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Tema",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/tema"
+  },
+  "next": {
+    "title": "Profil Sekolah",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah"
+  }
+}

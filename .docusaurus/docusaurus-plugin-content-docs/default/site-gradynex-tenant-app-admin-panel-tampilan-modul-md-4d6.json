@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/modul",
+  "title": "Modul",
+  "description": "Halaman Modul digunakan untuk mengaktifkan atau menonaktifkan fitur yang tersedia di website sekolah.",
+  "source": "@site/gradynex/tenant-app/admin-panel/tampilan/modul.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/modul",
+  "permalink": "/gradynex/tenant-app/admin-panel/tampilan/modul",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Menu",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/menu"
+  },
+  "next": {
+    "title": "Tema",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/tema"
+  }
+}

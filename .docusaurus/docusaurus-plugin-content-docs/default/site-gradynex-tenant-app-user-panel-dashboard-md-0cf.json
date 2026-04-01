@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/user-panel/dashboard",
+  "title": "Dashboard Pengguna",
+  "description": "Dashboard Pengguna adalah halaman utama setelah Anda berhasil masuk. Di sini Anda dapat melihat ringkasan informasi dan akses cepat ke fitur utama sesuai dengan hak akses Anda.",
+  "source": "@site/gradynex/tenant-app/user-panel/dashboard.md",
+  "sourceDirName": "tenant-app/user-panel",
+  "slug": "/tenant-app/user-panel/dashboard",
+  "permalink": "/gradynex/tenant-app/user-panel/dashboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Lupa Kata Sandi",
+    "permalink": "/gradynex/tenant-app/autentikasi/lupa-kata-sandi"
+  },
+  "next": {
+    "title": "Dashboard Admin",
+    "permalink": "/gradynex/tenant-app/admin-panel/dashboard-admin"
+  }
+}

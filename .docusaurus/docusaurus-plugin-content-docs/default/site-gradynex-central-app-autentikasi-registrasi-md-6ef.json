@@ -1,0 +1,26 @@
+{
+  "id": "central-app/autentikasi/registrasi",
+  "title": "Registrasi",
+  "description": "Sebelum memulai menggunakan Gradynex, Anda diwajibkan untuk melakukan registrasi terlebih dahulu. Silakan ikuti cara berikut untuk melakukan registrasi.",
+  "source": "@site/gradynex/central-app/autentikasi/registrasi.md",
+  "sourceDirName": "central-app/autentikasi",
+  "slug": "/central-app/autentikasi/registrasi",
+  "permalink": "/gradynex/central-app/autentikasi/registrasi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Berlangganan",
+    "permalink": "/gradynex/central-app/dasar/berlangganan"
+  },
+  "next": {
+    "title": "Masuk",
+    "permalink": "/gradynex/central-app/autentikasi/masuk"
+  }
+}

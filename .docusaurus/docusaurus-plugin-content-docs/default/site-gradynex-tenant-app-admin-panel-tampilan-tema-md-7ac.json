@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/tema",
+  "title": "Tema",
+  "description": "Halaman Tema digunakan untuk memilih tampilan/desain website sekolah. Satu tema mengatur layout, komponen visual, warna, dan gaya keseluruhan website.",
+  "source": "@site/gradynex/tenant-app/admin-panel/tampilan/tema.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/tema",
+  "permalink": "/gradynex/tenant-app/admin-panel/tampilan/tema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Modul",
+    "permalink": "/gradynex/tenant-app/admin-panel/tampilan/modul"
+  },
+  "next": {
+    "title": "Pengaturan Umum",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum"
+  }
+}

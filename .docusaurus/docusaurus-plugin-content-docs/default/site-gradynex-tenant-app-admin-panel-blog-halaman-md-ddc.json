@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/halaman",
+  "title": "Halaman",
+  "description": "Halaman adalah konten statis pada website sekolah Anda yang cocok untuk konten yang jarang berubah.",
+  "source": "@site/gradynex/tenant-app/admin-panel/blog/halaman.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/halaman",
+  "permalink": "/gradynex/tenant-app/admin-panel/blog/halaman",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Berita",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/berita"
+  },
+  "next": {
+    "title": "Kategori",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/kategori"
+  }
+}

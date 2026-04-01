@@ -1,0 +1,22 @@
+{
+  "id": "help-center/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "Halaman ini berisi solusi untuk masalah umum yang mungkin Anda temui saat menggunakan Gradynex.",
+  "source": "@site/gradynex/help-center/troubleshooting.md",
+  "sourceDirName": "help-center",
+  "slug": "/help-center/troubleshooting",
+  "permalink": "/gradynex/help-center/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "helpSidebar",
+  "previous": {
+    "title": "Tanya Jawab (FAQ)",
+    "permalink": "/gradynex/help-center/faq"
+  }
+}

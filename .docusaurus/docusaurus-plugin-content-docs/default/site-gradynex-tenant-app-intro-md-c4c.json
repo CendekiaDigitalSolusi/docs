@@ -1,0 +1,22 @@
+{
+  "id": "tenant-app/intro",
+  "title": "Dokumentasi Aplikasi Tenant",
+  "description": "Selamat datang di halaman dokumentasi aplikasi tenant. Pada halaman ini akan menjelaskan berbagai cara yang ada di dalam sistem Gradynex khususnya pada aplikasi tenant / aplikasi yang diakses untuk sekolah Anda.",
+  "source": "@site/gradynex/tenant-app/intro.md",
+  "sourceDirName": "tenant-app",
+  "slug": "/tenant-app/intro",
+  "permalink": "/gradynex/tenant-app/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tenantSidebar",
+  "next": {
+    "title": "Masuk",
+    "permalink": "/gradynex/tenant-app/autentikasi/masuk"
+  }
+}

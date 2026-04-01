@@ -1,0 +1,17 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/README",
+  "title": "Tampilan / Theme",
+  "description": "Modul Tampilan memungkinkan Anda mengatur visual dan layout website sekolah.",
+  "source": "@site/gradynex/tenant-app/admin-panel/tampilan/README.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/",
+  "permalink": "/gradynex/tenant-app/admin-panel/tampilan/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

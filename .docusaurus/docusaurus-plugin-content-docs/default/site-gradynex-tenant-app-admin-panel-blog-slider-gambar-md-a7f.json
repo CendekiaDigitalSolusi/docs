@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/slider-gambar",
+  "title": "Slider Gambar",
+  "description": "Halaman Slider Gambar mengelola daftar gambar slider yang tampil di halaman publik (misalnya di beranda website sekolah).",
+  "source": "@site/gradynex/tenant-app/admin-panel/blog/slider-gambar.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/slider-gambar",
+  "permalink": "/gradynex/tenant-app/admin-panel/blog/slider-gambar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Tag",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/tag"
+  },
+  "next": {
+    "title": "Komentar",
+    "permalink": "/gradynex/tenant-app/admin-panel/blog/komentar"
+  }
+}

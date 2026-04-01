@@ -1,0 +1,22 @@
+{
+  "id": "central-app/dasar/data-sekolah",
+  "title": "Data Sekolah",
+  "description": "Jika Anda baru saja membuat akun atau baru melakukan registrasi, maka Anda wajib melakukan pengisian data sekolah ketika Anda pertama kali menggunakan akun ini.",
+  "source": "@site/gradynex/central-app/dasar/data-sekolah.md",
+  "sourceDirName": "central-app/dasar",
+  "slug": "/central-app/dasar/data-sekolah",
+  "permalink": "/gradynex/central-app/dasar/data-sekolah",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Lupa Kata Sandi",
+    "permalink": "/gradynex/central-app/autentikasi/lupa-kata-sandi"
+  }
+}

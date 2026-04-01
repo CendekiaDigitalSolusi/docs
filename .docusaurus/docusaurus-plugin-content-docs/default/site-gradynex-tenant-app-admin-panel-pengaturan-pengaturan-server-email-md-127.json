@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "title": "Pengaturan Server Email",
+  "description": "Halaman Pengaturan Server Email menentukan server email yang dipakai aplikasi untuk mengirim email otomatis.",
+  "source": "@site/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Profil Sekolah",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah"
+  },
+  "next": {
+    "title": "Pengaturan Membaca",
+    "permalink": "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca"
+  }
+}

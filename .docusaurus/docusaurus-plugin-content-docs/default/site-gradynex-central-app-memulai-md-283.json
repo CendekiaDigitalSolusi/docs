@@ -1,0 +1,26 @@
+{
+  "id": "central-app/memulai",
+  "title": "Memulai",
+  "description": "Untuk memulai menggunakan sistem Gradynex dengan mudah silahkan ikuti petunjuk di bawah ini.",
+  "source": "@site/gradynex/central-app/memulai.md",
+  "sourceDirName": "central-app",
+  "slug": "/central-app/memulai",
+  "permalink": "/gradynex/central-app/memulai",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Dokumentasi Aplikasi Central",
+    "permalink": "/gradynex/central-app/intro"
+  },
+  "next": {
+    "title": "Trial",
+    "permalink": "/gradynex/central-app/dasar/trial"
+  }
+}
