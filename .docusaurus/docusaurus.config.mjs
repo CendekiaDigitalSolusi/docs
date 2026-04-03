@@ -49,6 +49,7 @@ export default {
         {
           "label": "Gradynex",
           "position": "left",
+          "to": "/gradynex",
           "items": [
             {
               "label": "Overview",
