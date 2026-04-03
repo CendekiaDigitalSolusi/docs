@@ -90,8 +90,8 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/CendekiaDigitalSolusi/docs',
-            label: 'GitHub',
+            href: 'https://cendekiadigitalsolusi.co.id/',
+            label: 'Website',
             position: 'right',
           },
         ],
