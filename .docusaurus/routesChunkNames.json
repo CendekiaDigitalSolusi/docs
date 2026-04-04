@@ -160,6 +160,47 @@
     "__comp": "17896441",
     "content": "0cf52acf"
   },
+  "/sso-cendekia-632": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "86ed7872"
+    }
+  },
+  "/sso-cendekia-3c1": {
+    "__comp": "a7bd4aaa",
+    "__props": "76aa51fc"
+  },
+  "/sso-cendekia-2d9": {
+    "__comp": "a94703ab"
+  },
+  "/sso-cendekia/-cdd": {
+    "__comp": "17896441",
+    "content": "aedc2b43"
+  },
+  "/sso-cendekia/pengguna/daftar-fc7": {
+    "__comp": "17896441",
+    "content": "f8604170"
+  },
+  "/sso-cendekia/pengguna/faq-05d": {
+    "__comp": "17896441",
+    "content": "b41bc880"
+  },
+  "/sso-cendekia/pengguna/login-sosial-15a": {
+    "__comp": "17896441",
+    "content": "a71b75a3"
+  },
+  "/sso-cendekia/pengguna/lupa-kata-sandi-f7a": {
+    "__comp": "17896441",
+    "content": "b25f808a"
+  },
+  "/sso-cendekia/pengguna/masuk-bc3": {
+    "__comp": "17896441",
+    "content": "f077f8ef"
+  },
+  "/sso-cendekia/pengguna/otorisasi-aplikasi-512": {
+    "__comp": "17896441",
+    "content": "51bb9d12"
+  },
   "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {

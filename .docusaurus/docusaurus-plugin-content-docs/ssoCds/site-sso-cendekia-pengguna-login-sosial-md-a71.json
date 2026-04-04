@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/login-sosial",
+  "title": "Login dengan Google atau Microsoft",
+  "description": "SSO Cendekia mendukung login sosial agar proses masuk lebih cepat.",
+  "source": "@site/sso-cendekia/pengguna/login-sosial.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/login-sosial",
+  "permalink": "/sso-cendekia/pengguna/login-sosial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Lupa Kata Sandi",
+    "permalink": "/sso-cendekia/pengguna/lupa-kata-sandi"
+  },
+  "next": {
+    "title": "Persetujuan Akses Aplikasi (Consent)",
+    "permalink": "/sso-cendekia/pengguna/otorisasi-aplikasi"
+  }
+}

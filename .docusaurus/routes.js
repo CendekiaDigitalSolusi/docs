@@ -237,6 +237,66 @@ export default [
     ]
   },
   {
+    path: '/sso-cendekia',
+    component: ComponentCreator('/sso-cendekia', '632'),
+    routes: [
+      {
+        path: '/sso-cendekia',
+        component: ComponentCreator('/sso-cendekia', '3c1'),
+        routes: [
+          {
+            path: '/sso-cendekia',
+            component: ComponentCreator('/sso-cendekia', '2d9'),
+            routes: [
+              {
+                path: '/sso-cendekia/',
+                component: ComponentCreator('/sso-cendekia/', 'cdd'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/daftar',
+                component: ComponentCreator('/sso-cendekia/pengguna/daftar', 'fc7'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/faq',
+                component: ComponentCreator('/sso-cendekia/pengguna/faq', '05d'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/login-sosial',
+                component: ComponentCreator('/sso-cendekia/pengguna/login-sosial', '15a'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/lupa-kata-sandi',
+                component: ComponentCreator('/sso-cendekia/pengguna/lupa-kata-sandi', 'f7a'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/masuk',
+                component: ComponentCreator('/sso-cendekia/pengguna/masuk', 'bc3'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              },
+              {
+                path: '/sso-cendekia/pengguna/otorisasi-aplikasi',
+                component: ComponentCreator('/sso-cendekia/pengguna/otorisasi-aplikasi', '512'),
+                exact: true,
+                sidebar: "ssoCdsSidebar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     path: '/',
     component: ComponentCreator('/', '2e1'),
     exact: true

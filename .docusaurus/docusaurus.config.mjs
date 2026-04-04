@@ -36,6 +36,17 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "ssoCds",
+        "path": "sso-cendekia",
+        "routeBasePath": "sso-cendekia",
+        "sidebarPath": "/workspaces/docs/sidebars-sso.js"
+      }
+    ]
+  ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
@@ -45,6 +56,29 @@ export default {
           "to": "/",
           "label": "Home",
           "position": "left"
+        },
+        {
+          "label": "SSO Cendekia",
+          "position": "left",
+          "to": "/sso-cendekia/",
+          "items": [
+            {
+              "label": "Panduan Pengguna",
+              "to": "/sso-cendekia/"
+            },
+            {
+              "label": "Cara Masuk",
+              "to": "/sso-cendekia/pengguna/masuk"
+            },
+            {
+              "label": "Lupa Kata Sandi",
+              "to": "/sso-cendekia/pengguna/lupa-kata-sandi"
+            },
+            {
+              "label": "FAQ",
+              "to": "/sso-cendekia/pengguna/faq"
+            }
+          ]
         },
         {
           "label": "Gradynex",
@@ -90,6 +124,10 @@ export default {
             {
               "label": "Aplikasi Tenant",
               "to": "/gradynex/tenant-app/intro"
+            },
+            {
+              "label": "SSO Cendekia",
+              "to": "/sso-cendekia/"
             }
           ]
         },
@@ -360,7 +398,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

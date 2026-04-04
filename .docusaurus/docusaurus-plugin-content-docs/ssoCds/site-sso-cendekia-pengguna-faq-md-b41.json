@@ -1,0 +1,22 @@
+{
+  "id": "pengguna/faq",
+  "title": "FAQ Pengguna",
+  "description": "Saya sudah login tapi kembali ke halaman login lagi",
+  "source": "@site/sso-cendekia/pengguna/faq.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/faq",
+  "permalink": "/sso-cendekia/pengguna/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Persetujuan Akses Aplikasi (Consent)",
+    "permalink": "/sso-cendekia/pengguna/otorisasi-aplikasi"
+  }
+}

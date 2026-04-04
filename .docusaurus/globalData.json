@@ -214,6 +214,65 @@
         }
       ],
       "breadcrumbs": true
+    },
+    "ssoCds": {
+      "path": "/sso-cendekia",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/sso-cendekia",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/sso-cendekia/",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/daftar",
+              "path": "/sso-cendekia/pengguna/daftar",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/faq",
+              "path": "/sso-cendekia/pengguna/faq",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/login-sosial",
+              "path": "/sso-cendekia/pengguna/login-sosial",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/lupa-kata-sandi",
+              "path": "/sso-cendekia/pengguna/lupa-kata-sandi",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/masuk",
+              "path": "/sso-cendekia/pengguna/masuk",
+              "sidebar": "ssoCdsSidebar"
+            },
+            {
+              "id": "pengguna/otorisasi-aplikasi",
+              "path": "/sso-cendekia/pengguna/otorisasi-aplikasi",
+              "sidebar": "ssoCdsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "ssoCdsSidebar": {
+              "link": {
+                "path": "/sso-cendekia/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
     }
   }
 }

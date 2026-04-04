@@ -4,6 +4,17 @@ import Layout from '@theme/Layout';
 
 const appCatalog = [
   {
+    name: 'SSO Cendekia',
+    tag: 'Single Sign-On',
+    description:
+      'Satu akun untuk semua aplikasi Cendekia. Login sekali, akses semua layanan dengan mudah dan aman.',
+    docsLinks: [
+      { label: 'Dokumentasi', to: '/sso-cendekia' },
+    ],
+    accent: 'home-card--central',
+    status: 'Aktif',
+  },
+  {
     name: 'Gradynex',
     tag: 'Sistem Informasi Sekolah',
     description:

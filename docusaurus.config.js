@@ -53,6 +53,18 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ssoCds',
+        path: 'sso-cendekia',
+        routeBasePath: 'sso-cendekia',
+        sidebarPath: require.resolve('./sidebars-sso.js'),
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -65,6 +77,29 @@ const config = {
             to: '/',
             label: 'Home',
             position: 'left',
+          },
+          {
+            label: 'SSO Cendekia',
+            position: 'left',
+            to: '/sso-cendekia/',
+            items: [
+              {
+                label: 'Panduan Pengguna',
+                to: '/sso-cendekia/',
+              },
+              {
+                label: 'Cara Masuk',
+                to: '/sso-cendekia/pengguna/masuk',
+              },
+              {
+                label: 'Lupa Kata Sandi',
+                to: '/sso-cendekia/pengguna/lupa-kata-sandi',
+              },
+              {
+                label: 'FAQ',
+                to: '/sso-cendekia/pengguna/faq',
+              },
+            ],
           },
           {
             label: 'Gradynex',
@@ -109,6 +144,10 @@ const config = {
               {
                 label: 'Aplikasi Tenant',
                 to: '/gradynex/tenant-app/intro',
+              },
+              {
+                label: 'SSO Cendekia',
+                to: '/sso-cendekia/',
               },
             ],
           },

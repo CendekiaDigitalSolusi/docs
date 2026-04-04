@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/masuk",
+  "title": "Cara Masuk (Login)",
+  "description": "Login dengan Email dan Kata Sandi",
+  "source": "@site/sso-cendekia/pengguna/masuk.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/masuk",
+  "permalink": "/sso-cendekia/pengguna/masuk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "SSO Cendekia",
+    "permalink": "/sso-cendekia/"
+  },
+  "next": {
+    "title": "Cara Daftar Akun Baru",
+    "permalink": "/sso-cendekia/pengguna/daftar"
+  }
+}
