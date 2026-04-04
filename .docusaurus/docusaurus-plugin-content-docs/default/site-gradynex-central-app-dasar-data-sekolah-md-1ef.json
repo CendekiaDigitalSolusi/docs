@@ -1,7 +1,7 @@
 {
   "id": "central-app/dasar/data-sekolah",
   "title": "Data Sekolah",
-  "description": "Jika Anda baru saja membuat akun atau baru melakukan registrasi, maka Anda wajib melakukan pengisian data sekolah ketika Anda pertama kali menggunakan akun ini.",
+  "description": "Jika Anda baru membuat akun melalui SSO Cendekia, Anda wajib mengisi data sekolah saat pertama kali menggunakan Gradynex.",
   "source": "@site/gradynex/central-app/dasar/data-sekolah.md",
   "sourceDirName": "central-app/dasar",
   "slug": "/central-app/dasar/data-sekolah",

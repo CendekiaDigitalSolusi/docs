@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Data Sekolah
 
-Jika Anda baru saja membuat akun atau baru melakukan registrasi, maka Anda wajib melakukan pengisian data sekolah ketika Anda pertama kali menggunakan akun ini.
+Jika Anda baru membuat akun melalui SSO Cendekia, Anda wajib mengisi data sekolah saat pertama kali menggunakan Gradynex.
 
 :::warning
 Pengisian data sekolah ini **wajib** untuk proses verifikasi. Jika tidak diisi, Anda tidak bisa berlangganan di Gradynex.

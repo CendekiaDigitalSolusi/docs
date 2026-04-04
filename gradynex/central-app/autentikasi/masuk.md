@@ -2,18 +2,41 @@
 sidebar_position: 2
 ---
 
-# Masuk
+# Cara Masuk (Login)
 
-Setelah memiliki akun aktif, Anda bisa masuk ke sistem Gradynex untuk mengelola langganan dari website sekolah Anda.
+## Login dengan Email dan Kata Sandi
+
+1. Buka [gradynex.com/login](https://gradynex.com/login).
+2. Klik tombol **Masuk dengan SSO** atau kamu akan diarahkan otomatis ke halaman login SSO.
+3. Isi email dan kata sandi.
+4. Klik Masuk.
+5. Jika berhasil, kamu akan kembali ke aplikasi asal.
 
 :::info
-Jika belum punya akun, Anda dapat melakukan [registrasi](./registrasi.md) terlebih dahulu.
+Akun Gradynex menggunakan sistem SSO (Single Sign-On) Cendekia.
+
+- Jika belum punya akun, daftar di halaman [SSO Cendekia - Daftar](https://accounts.cendekiadigitalsolusi.co.id/register).
+- Jika lupa password, gunakan panduan [Lupa Kata Sandi](./lupa-kata-sandi.md).
 :::
 
-## Langkah-Langkah Masuk
+## Metode Autentikasi Lainnya
 
-1. Silakan akses [gradynex.com](https://gradynex.com) dan klik tombol **Masuk**
-2. Masukkan email dan password Anda sesuai yang Anda daftarkan
-3. Jika data benar, Anda akan dialihkan ke dashboard pengguna
+Selain email dan kata sandi, Anda juga dapat login menggunakan akun sosial yang didukung di halaman SSO Cendekia:
 
-Selamat! Anda berhasil login ke sistem Gradynex.
+- Google
+- Microsoft
+
+Panduan lengkapnya tersedia di [Login dengan Google atau Microsoft](/sso-cendekia/pengguna/login-sosial).
+
+## Jika Muncul Halaman Persetujuan Akses
+
+1. Cek nama aplikasi yang meminta akses.
+2. Cek data yang diminta (misalnya email dan profil dasar).
+3. Klik Izinkan untuk melanjutkan.
+
+## Jika Gagal Login?
+
+- Pastikan email dan password benar.
+- Cek apakah Caps Lock keyboard aktif.
+- Gunakan menu **Lupa Kata Sandi** jika lupa password.
+- Jika akun terkunci, tunggu beberapa menit lalu coba lagi.

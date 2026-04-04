@@ -4,15 +4,15 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/gradynex',
-    component: ComponentCreator('/gradynex', '433'),
+    component: ComponentCreator('/gradynex', 'e3d'),
     routes: [
       {
         path: '/gradynex',
-        component: ComponentCreator('/gradynex', '7a9'),
+        component: ComponentCreator('/gradynex', '129'),
         routes: [
           {
             path: '/gradynex',
-            component: ComponentCreator('/gradynex', '1b7'),
+            component: ComponentCreator('/gradynex', '955'),
             routes: [
               {
                 path: '/gradynex/',
@@ -28,12 +28,6 @@ export default [
               {
                 path: '/gradynex/central-app/autentikasi/masuk',
                 component: ComponentCreator('/gradynex/central-app/autentikasi/masuk', '3fd'),
-                exact: true,
-                sidebar: "centralSidebar"
-              },
-              {
-                path: '/gradynex/central-app/autentikasi/registrasi',
-                component: ComponentCreator('/gradynex/central-app/autentikasi/registrasi', 'ca5'),
                 exact: true,
                 sidebar: "centralSidebar"
               },

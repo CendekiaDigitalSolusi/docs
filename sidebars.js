@@ -26,7 +26,6 @@ const sidebars = {
       type: 'category',
       label: 'Autentikasi',
       items: [
-        'central-app/autentikasi/registrasi',
         'central-app/autentikasi/masuk',
         'central-app/autentikasi/lupa-kata-sandi',
       ],

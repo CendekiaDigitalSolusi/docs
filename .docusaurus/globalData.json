@@ -21,11 +21,6 @@
               "sidebar": "centralSidebar"
             },
             {
-              "id": "central-app/autentikasi/registrasi",
-              "path": "/gradynex/central-app/autentikasi/registrasi",
-              "sidebar": "centralSidebar"
-            },
-            {
               "id": "central-app/dasar/berlangganan",
               "path": "/gradynex/central-app/dasar/berlangganan",
               "sidebar": "centralSidebar"

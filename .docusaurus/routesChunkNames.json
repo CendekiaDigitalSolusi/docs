@@ -1,15 +1,15 @@
 {
-  "/gradynex-433": {
+  "/gradynex-e3d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/gradynex-7a9": {
+  "/gradynex-129": {
     "__comp": "a7bd4aaa",
     "__props": "508f485c"
   },
-  "/gradynex-1b7": {
+  "/gradynex-955": {
     "__comp": "a94703ab"
   },
   "/gradynex/-00e": {
@@ -23,10 +23,6 @@
   "/gradynex/central-app/autentikasi/masuk-3fd": {
     "__comp": "17896441",
     "content": "a86b458b"
-  },
-  "/gradynex/central-app/autentikasi/registrasi-ca5": {
-    "__comp": "17896441",
-    "content": "6efa476c"
   },
   "/gradynex/central-app/dasar/berlangganan-6c3": {
     "__comp": "17896441",

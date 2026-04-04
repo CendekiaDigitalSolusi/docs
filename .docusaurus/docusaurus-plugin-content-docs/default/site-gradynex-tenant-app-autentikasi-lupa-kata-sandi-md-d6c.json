@@ -1,7 +1,7 @@
 {
   "id": "tenant-app/autentikasi/lupa-kata-sandi",
   "title": "Lupa Kata Sandi",
-  "description": "Jika Anda lupa kata sandi dari akun Anda, Anda dapat melakukan permintaan untuk mengganti kata sandi Anda hanya dengan menggunakan email.",
+  "description": "Jika Anda lupa password akun tenant Gradynex, gunakan proses reset berikut.",
   "source": "@site/gradynex/tenant-app/autentikasi/lupa-kata-sandi.md",
   "sourceDirName": "tenant-app/autentikasi",
   "slug": "/tenant-app/autentikasi/lupa-kata-sandi",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tenantSidebar",
   "previous": {
-    "title": "Masuk",
+    "title": "Cara Masuk (Login)",
     "permalink": "/gradynex/tenant-app/autentikasi/masuk"
   },
   "next": {

@@ -8,9 +8,9 @@ Gradynex menawarkan paket trial gratis selama 14 hari untuk pengguna baru yang i
 
 :::info
 Untuk menggunakan trial kami, Anda harus:
-- Sudah [registrasi](../autentikasi/registrasi.md)
-- Sudah melengkapi [data sekolah](./data-sekolah.md)
+- Sudah memiliki akun SSO Cendekia
 - Sudah [login](../autentikasi/masuk.md) ke akun Anda
+- Sudah melengkapi [data sekolah](./data-sekolah.md)
 :::
 
 ## Langkah-Langkah Mengaktifkan Trial

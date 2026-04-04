@@ -1,7 +1,7 @@
 {
   "id": "central-app/autentikasi/masuk",
-  "title": "Masuk",
-  "description": "Setelah memiliki akun aktif, Anda bisa masuk ke sistem Gradynex untuk mengelola langganan dari website sekolah Anda.",
+  "title": "Cara Masuk (Login)",
+  "description": "Login dengan Email dan Kata Sandi",
   "source": "@site/gradynex/central-app/autentikasi/masuk.md",
   "sourceDirName": "central-app/autentikasi",
   "slug": "/central-app/autentikasi/masuk",
@@ -16,8 +16,8 @@
   },
   "sidebar": "centralSidebar",
   "previous": {
-    "title": "Registrasi",
-    "permalink": "/gradynex/central-app/autentikasi/registrasi"
+    "title": "Berlangganan",
+    "permalink": "/gradynex/central-app/dasar/berlangganan"
   },
   "next": {
     "title": "Lupa Kata Sandi",
