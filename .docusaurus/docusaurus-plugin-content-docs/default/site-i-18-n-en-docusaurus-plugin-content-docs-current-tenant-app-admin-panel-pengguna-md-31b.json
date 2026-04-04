@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengguna",
+  "title": "User",
+  "description": "The Users page is used to manage accounts that can log into the Tenant system.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/pengguna.md",
+  "sourceDirName": "tenant-app/admin-panel",
+  "slug": "/tenant-app/admin-panel/pengguna",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/pengguna",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Admin Dashboard",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/dashboard-admin"
+  },
+  "next": {
+    "title": "Roles / Access Rights",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/peran"
+  }
+}

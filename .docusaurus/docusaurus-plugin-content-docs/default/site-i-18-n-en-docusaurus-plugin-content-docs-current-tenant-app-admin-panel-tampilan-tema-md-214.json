@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/tema",
+  "title": "Theme",
+  "description": "The Theme page is used to choose the appearance/design of the school website. A theme manages the layout, visual components, colors, and overall style of a website.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/tampilan/tema.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/tema",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/tema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Module",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/modul"
+  },
+  "next": {
+    "title": "General Settings",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "link.title.Dokumentasi": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Dokumentasi in the footer"
+  },
+  "link.title.Lainnya": {
+    "message": "More",
+    "description": "The title of the footer links column with title=Lainnya in the footer"
+  },
+  "link.item.label.Aplikasi Central": {
+    "message": "Central App",
+    "description": "The label of footer link with label=Aplikasi Central linking to /gradynex/central-app/intro"
+  },
+  "link.item.label.Aplikasi Tenant": {
+    "message": "Tenant App",
+    "description": "The label of footer link with label=Aplikasi Tenant linking to /gradynex/tenant-app/intro"
+  },
+  "link.item.label.SSO Cendekia": {
+    "message": "SSO Cendekia",
+    "description": "The label of footer link with label=SSO Cendekia linking to /sso-cendekia/"
+  },
+  "link.item.label.Website": {
+    "message": "Website",
+    "description": "The label of footer link with label=Website linking to https://cendekiadigitalsolusi.co.id/"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 PT Cendekia Digital Solusi.",
+    "description": "The footer copyright"
+  }
+}

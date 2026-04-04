@@ -8,18 +8,51 @@ export default {
   "tagline": "Documentation Portal - PT Cendekia Digital Solusi",
   "favicon": "img/favicon.ico",
   "url": "https://docs.cendekiadigitalsolusi.co.id",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "organizationName": "CendekiaDigitalSolusi",
   "projectName": "docs",
   "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "id",
     "locales": [
-      "id"
+      "id",
+      "en"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "id": {
+        "label": "Bahasa Indonesia",
+        "htmlLang": "id-ID"
+      },
+      "en": {
+        "label": "English",
+        "htmlLang": "en-US"
+      }
+    },
+    "path": "i18n"
   },
+  "themes": [
+    [
+      "/workspaces/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true,
+        "indexBlog": false,
+        "indexPages": true,
+        "docsDir": [
+          "gradynex",
+          "sso-cendekia"
+        ],
+        "docsRouteBasePath": [
+          "/gradynex",
+          "/sso-cendekia"
+        ],
+        "searchContextByPaths": [
+          "gradynex",
+          "sso-cendekia"
+        ],
+        "searchBarPosition": "right"
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -63,15 +96,15 @@ export default {
           "to": "/sso-cendekia/",
           "items": [
             {
-              "label": "Panduan Pengguna",
+              "label": "User Guide",
               "to": "/sso-cendekia/"
             },
             {
-              "label": "Cara Masuk",
+              "label": "Sign In",
               "to": "/sso-cendekia/pengguna/masuk"
             },
             {
-              "label": "Lupa Kata Sandi",
+              "label": "Forgot Password",
               "to": "/sso-cendekia/pengguna/lupa-kata-sandi"
             },
             {
@@ -107,6 +140,16 @@ export default {
           "href": "https://cendekiadigitalsolusi.co.id/",
           "label": "Website",
           "position": "right"
+        },
+        {
+          "type": "search",
+          "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
@@ -115,14 +158,14 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Dokumentasi",
+          "title": "Documentation",
           "items": [
             {
-              "label": "Aplikasi Central",
+              "label": "Central App",
               "to": "/gradynex/central-app/intro"
             },
             {
-              "label": "Aplikasi Tenant",
+              "label": "Tenant App",
               "to": "/gradynex/tenant-app/intro"
             },
             {
@@ -132,7 +175,7 @@ export default {
           ]
         },
         {
-          "title": "Lainnya",
+          "title": "More",
           "items": [
             {
               "label": "Website",
@@ -398,7 +441,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

@@ -1,187 +1,187 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/gradynex",
+      "path": "/en/gradynex",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/gradynex",
+          "path": "/en/gradynex",
           "mainDocId": "index",
           "docs": [
             {
               "id": "central-app/autentikasi/lupa-kata-sandi",
-              "path": "/gradynex/central-app/autentikasi/lupa-kata-sandi",
+              "path": "/en/gradynex/central-app/autentikasi/lupa-kata-sandi",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/autentikasi/masuk",
-              "path": "/gradynex/central-app/autentikasi/masuk",
+              "path": "/en/gradynex/central-app/autentikasi/masuk",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/dasar/berlangganan",
-              "path": "/gradynex/central-app/dasar/berlangganan",
+              "path": "/en/gradynex/central-app/dasar/berlangganan",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/dasar/data-sekolah",
-              "path": "/gradynex/central-app/dasar/data-sekolah",
+              "path": "/en/gradynex/central-app/dasar/data-sekolah",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/dasar/trial",
-              "path": "/gradynex/central-app/dasar/trial",
+              "path": "/en/gradynex/central-app/dasar/trial",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/intro",
-              "path": "/gradynex/central-app/intro",
+              "path": "/en/gradynex/central-app/intro",
               "sidebar": "centralSidebar"
             },
             {
               "id": "central-app/memulai",
-              "path": "/gradynex/central-app/memulai",
+              "path": "/en/gradynex/central-app/memulai",
               "sidebar": "centralSidebar"
             },
             {
               "id": "help-center/faq",
-              "path": "/gradynex/help-center/faq",
+              "path": "/en/gradynex/help-center/faq",
               "sidebar": "helpSidebar"
             },
             {
               "id": "help-center/troubleshooting",
-              "path": "/gradynex/help-center/troubleshooting",
+              "path": "/en/gradynex/help-center/troubleshooting",
               "sidebar": "helpSidebar"
             },
             {
               "id": "index",
-              "path": "/gradynex/"
+              "path": "/en/gradynex/"
             },
             {
               "id": "intro",
-              "path": "/gradynex/intro"
+              "path": "/en/gradynex/intro"
             },
             {
               "id": "tenant-app/admin-panel/blog/berita",
-              "path": "/gradynex/tenant-app/admin-panel/blog/berita",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/berita",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/blog/halaman",
-              "path": "/gradynex/tenant-app/admin-panel/blog/halaman",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/halaman",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/blog/kategori",
-              "path": "/gradynex/tenant-app/admin-panel/blog/kategori",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/kategori",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/blog/komentar",
-              "path": "/gradynex/tenant-app/admin-panel/blog/komentar",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/komentar",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/blog/README",
-              "path": "/gradynex/tenant-app/admin-panel/blog/"
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/"
             },
             {
               "id": "tenant-app/admin-panel/blog/slider-gambar",
-              "path": "/gradynex/tenant-app/admin-panel/blog/slider-gambar",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/slider-gambar",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/blog/tag",
-              "path": "/gradynex/tenant-app/admin-panel/blog/tag",
+              "path": "/en/gradynex/tenant-app/admin-panel/blog/tag",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/dashboard-admin",
-              "path": "/gradynex/tenant-app/admin-panel/dashboard-admin",
+              "path": "/en/gradynex/tenant-app/admin-panel/dashboard-admin",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/blog/README",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/blog/"
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/pengaturan-server-email",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/pengaturan-umum",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/profil-sekolah",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/pengaturan/README",
-              "path": "/gradynex/tenant-app/admin-panel/pengaturan/"
+              "path": "/en/gradynex/tenant-app/admin-panel/pengaturan/"
             },
             {
               "id": "tenant-app/admin-panel/pengguna",
-              "path": "/gradynex/tenant-app/admin-panel/pengguna",
+              "path": "/en/gradynex/tenant-app/admin-panel/pengguna",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/peran",
-              "path": "/gradynex/tenant-app/admin-panel/peran",
+              "path": "/en/gradynex/tenant-app/admin-panel/peran",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/tampilan/menu",
-              "path": "/gradynex/tenant-app/admin-panel/tampilan/menu",
+              "path": "/en/gradynex/tenant-app/admin-panel/tampilan/menu",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/tampilan/modul",
-              "path": "/gradynex/tenant-app/admin-panel/tampilan/modul",
+              "path": "/en/gradynex/tenant-app/admin-panel/tampilan/modul",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/admin-panel/tampilan/README",
-              "path": "/gradynex/tenant-app/admin-panel/tampilan/"
+              "path": "/en/gradynex/tenant-app/admin-panel/tampilan/"
             },
             {
               "id": "tenant-app/admin-panel/tampilan/tema",
-              "path": "/gradynex/tenant-app/admin-panel/tampilan/tema",
+              "path": "/en/gradynex/tenant-app/admin-panel/tampilan/tema",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/autentikasi/lupa-kata-sandi",
-              "path": "/gradynex/tenant-app/autentikasi/lupa-kata-sandi",
+              "path": "/en/gradynex/tenant-app/autentikasi/lupa-kata-sandi",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/autentikasi/masuk",
-              "path": "/gradynex/tenant-app/autentikasi/masuk",
+              "path": "/en/gradynex/tenant-app/autentikasi/masuk",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/intro",
-              "path": "/gradynex/tenant-app/intro",
+              "path": "/en/gradynex/tenant-app/intro",
               "sidebar": "tenantSidebar"
             },
             {
               "id": "tenant-app/user-panel/dashboard",
-              "path": "/gradynex/tenant-app/user-panel/dashboard",
+              "path": "/en/gradynex/tenant-app/user-panel/dashboard",
               "sidebar": "tenantSidebar"
             }
           ],
@@ -189,19 +189,19 @@
           "sidebars": {
             "centralSidebar": {
               "link": {
-                "path": "/gradynex/central-app/intro",
+                "path": "/en/gradynex/central-app/intro",
                 "label": "central-app/intro"
               }
             },
             "tenantSidebar": {
               "link": {
-                "path": "/gradynex/tenant-app/intro",
+                "path": "/en/gradynex/tenant-app/intro",
                 "label": "tenant-app/intro"
               }
             },
             "helpSidebar": {
               "link": {
-                "path": "/gradynex/help-center/faq",
+                "path": "/en/gradynex/help-center/faq",
                 "label": "help-center/faq"
               }
             }
@@ -211,48 +211,48 @@
       "breadcrumbs": true
     },
     "ssoCds": {
-      "path": "/sso-cendekia",
+      "path": "/en/sso-cendekia",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/sso-cendekia",
+          "path": "/en/sso-cendekia",
           "mainDocId": "index",
           "docs": [
             {
               "id": "index",
-              "path": "/sso-cendekia/",
+              "path": "/en/sso-cendekia/",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/daftar",
-              "path": "/sso-cendekia/pengguna/daftar",
+              "path": "/en/sso-cendekia/pengguna/daftar",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/faq",
-              "path": "/sso-cendekia/pengguna/faq",
+              "path": "/en/sso-cendekia/pengguna/faq",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/login-sosial",
-              "path": "/sso-cendekia/pengguna/login-sosial",
+              "path": "/en/sso-cendekia/pengguna/login-sosial",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/lupa-kata-sandi",
-              "path": "/sso-cendekia/pengguna/lupa-kata-sandi",
+              "path": "/en/sso-cendekia/pengguna/lupa-kata-sandi",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/masuk",
-              "path": "/sso-cendekia/pengguna/masuk",
+              "path": "/en/sso-cendekia/pengguna/masuk",
               "sidebar": "ssoCdsSidebar"
             },
             {
               "id": "pengguna/otorisasi-aplikasi",
-              "path": "/sso-cendekia/pengguna/otorisasi-aplikasi",
+              "path": "/en/sso-cendekia/pengguna/otorisasi-aplikasi",
               "sidebar": "ssoCdsSidebar"
             }
           ],
@@ -260,7 +260,7 @@
           "sidebars": {
             "ssoCdsSidebar": {
               "link": {
-                "path": "/sso-cendekia/",
+                "path": "/en/sso-cendekia/",
                 "label": "index"
               }
             }

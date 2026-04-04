@@ -1,20 +1,31 @@
 {
   "defaultLocale": "id",
   "locales": [
-    "id"
+    "id",
+    "en"
   ],
   "path": "i18n",
-  "currentLocale": "id",
+  "currentLocale": "en",
   "localeConfigs": {
     "id": {
-      "label": "Indonesia",
+      "label": "Bahasa Indonesia",
       "direction": "ltr",
-      "htmlLang": "id",
+      "htmlLang": "id-ID",
       "calendar": "gregory",
       "path": "id",
       "translate": false,
       "url": "https://docs.cendekiadigitalsolusi.co.id",
       "baseUrl": "/"
+    },
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en-US",
+      "calendar": "gregory",
+      "path": "en",
+      "translate": true,
+      "url": "https://docs.cendekiadigitalsolusi.co.id",
+      "baseUrl": "/en/"
     }
   }
 }

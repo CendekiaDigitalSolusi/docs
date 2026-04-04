@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.centralSidebar.category.Memulai": {
+    "message": "Getting Started",
+    "description": "The label for category 'Memulai' in sidebar 'centralSidebar'"
+  },
+  "sidebar.centralSidebar.category.Autentikasi": {
+    "message": "Authentication",
+    "description": "The label for category 'Autentikasi' in sidebar 'centralSidebar'"
+  },
+  "sidebar.centralSidebar.category.Dasar": {
+    "message": "Basics",
+    "description": "The label for category 'Dasar' in sidebar 'centralSidebar'"
+  },
+  "sidebar.tenantSidebar.category.Autentikasi": {
+    "message": "Authentication",
+    "description": "The label for category 'Autentikasi' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.Dashboard": {
+    "message": "Dashboard",
+    "description": "The label for category 'Dashboard' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.Admin Panel": {
+    "message": "Admin Panel",
+    "description": "The label for category 'Admin Panel' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.tenant-admin-blog": {
+    "message": "Blog",
+    "description": "The label for category 'Blog' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.Tampilan": {
+    "message": "Appearance",
+    "description": "The label for category 'Tampilan' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.Pengaturan": {
+    "message": "Settings",
+    "description": "The label for category 'Pengaturan' in sidebar 'tenantSidebar'"
+  },
+  "sidebar.tenantSidebar.category.tenant-settings-blog": {
+    "message": "Blog",
+    "description": "The label for category 'Blog' in sidebar 'tenantSidebar'"
+  }
+}

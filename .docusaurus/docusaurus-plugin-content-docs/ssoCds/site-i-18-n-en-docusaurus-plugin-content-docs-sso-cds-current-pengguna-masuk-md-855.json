@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/masuk",
+  "title": "How to Enter (Login)",
+  "description": "Login with Email and Password",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/masuk.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/masuk",
+  "permalink": "/en/sso-cendekia/pengguna/masuk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "SSO Cendekia",
+    "permalink": "/en/sso-cendekia/"
+  },
+  "next": {
+    "title": "How to Register a New Account",
+    "permalink": "/en/sso-cendekia/pengguna/daftar"
+  }
+}

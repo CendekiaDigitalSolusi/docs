@@ -3,6 +3,23 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const hasAlgoliaSearch = Boolean(
+  process.env.ALGOLIA_APP_ID &&
+    process.env.ALGOLIA_API_KEY &&
+    process.env.ALGOLIA_INDEX_NAME,
+);
+
+const algoliaSearchConfig = hasAlgoliaSearch
+  ? {
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+      contextualSearch: true,
+      searchPagePath: 'search',
+      insights: false,
+    }
+  : undefined;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cendekia Platform',
@@ -28,8 +45,35 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'id',
-    locales: ['id'],
+    locales: ['id', 'en'],
+    localeConfigs: {
+      id: {
+        label: 'Bahasa Indonesia',
+        htmlLang: 'id-ID',
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+    },
   },
+
+  themes: hasAlgoliaSearch
+    ? []
+    : [
+        [
+          require.resolve('@easyops-cn/docusaurus-search-local'),
+          {
+            hashed: true,
+            indexBlog: false,
+            indexPages: true,
+            docsDir: ['gradynex', 'sso-cendekia'],
+            docsRouteBasePath: ['/gradynex', '/sso-cendekia'],
+            searchContextByPaths: ['gradynex', 'sso-cendekia'],
+            searchBarPosition: 'right',
+          },
+        ],
+      ],
 
   presets: [
     [
@@ -129,6 +173,14 @@ const config = {
             label: 'Website',
             position: 'right',
           },
+          {
+            type: 'search',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -167,6 +219,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      ...(algoliaSearchConfig ? {algolia: algoliaSearchConfig} : {}),
     }),
 };
 

@@ -1,0 +1,17 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/README",
+  "title": "Appearance / Theme",
+  "description": "The Appearance module allows you to manage the visuals and layout of the school website.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/tampilan/README.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

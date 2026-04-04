@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/autentikasi/masuk",
+  "title": "How to Enter (Login)",
+  "description": "To access the Gradynex tenant application, you need to have a registered account. If you don't have an account, contact your school administrator.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/autentikasi/masuk.md",
+  "sourceDirName": "tenant-app/autentikasi",
+  "slug": "/tenant-app/autentikasi/masuk",
+  "permalink": "/en/gradynex/tenant-app/autentikasi/masuk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Tenant Application Documentation",
+    "permalink": "/en/gradynex/tenant-app/intro"
+  },
+  "next": {
+    "title": "Forgot Password",
+    "permalink": "/en/gradynex/tenant-app/autentikasi/lupa-kata-sandi"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "title": "Discussion Settings",
+  "description": "Discussion Settings manages comments on blog articles. This setting becomes default for new articles.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan/blog",
+  "slug": "/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Reading Settings",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca"
+  }
+}

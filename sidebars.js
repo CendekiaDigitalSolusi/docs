@@ -58,6 +58,7 @@ const sidebars = {
         {
           type: 'category',
           label: 'Blog',
+          key: 'tenant-admin-blog',
           items: [
             'tenant-app/admin-panel/blog/berita',
             'tenant-app/admin-panel/blog/halaman',
@@ -86,6 +87,7 @@ const sidebars = {
             {
               type: 'category',
               label: 'Blog',
+              key: 'tenant-settings-blog',
               items: [
                 'tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca',
                 'tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi',

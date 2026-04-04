@@ -9,7 +9,7 @@ Untuk memulai menggunakan sistem Gradynex dengan mudah silahkan ikuti petunjuk d
 ## Tahapan Memulai
 
 ### 1. Registrasi
-Buat akun terlebih dahulu melalui SSO Cendekia di halaman [Daftar](https://accounts.cendekiadigitalsolusi.co.id/register). [Panduan lengkapnya tersedia di sini](../../sso-cendekia/pengguna/daftar).
+Buat akun terlebih dahulu melalui SSO Cendekia di halaman [Daftar](https://accounts.cendekiadigitalsolusi.co.id/register). [Panduan lengkapnya tersedia di sini](/sso-cendekia/pengguna/daftar).
 
 ### 2. Masuk
 Setelah berhasil registrasi di SSO Cendekia, lakukan login ke akun Anda. Anda dapat login dengan email/password atau metode sosial (Google/Microsoft). Lihat panduan [Cara Masuk (Login)](./autentikasi/masuk.md).

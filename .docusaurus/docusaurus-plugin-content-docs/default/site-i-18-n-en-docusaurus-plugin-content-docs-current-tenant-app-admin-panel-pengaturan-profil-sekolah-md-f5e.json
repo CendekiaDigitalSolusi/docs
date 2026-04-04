@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "title": "School Profile",
+  "description": "The School Profile page stores school identity data that is used in various places in the system.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/pengaturan/profil-sekolah.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "General Settings",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum"
+  },
+  "next": {
+    "title": "Email Server Settings",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email"
+  }
+}
