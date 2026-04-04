@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <defs>
+    <style>
+      .title{font:700 28px Arial,sans-serif;fill:#12344d}
+      .box{fill:#f5fbff;stroke:#1c6ea4;stroke-width:3;rx:16}
+      .txt{font:600 20px Arial,sans-serif;fill:#12344d}
+      .sub{font:400 16px Arial,sans-serif;fill:#35566d}
+      .arr{stroke:#1c6ea4;stroke-width:4;fill:none;marker-end:url(#a)}
+    </style>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1c6ea4" />
+    </marker>
+  </defs>
+
+  <rect width="1200" height="500" fill="#eef7fc"/>
+  <text x="60" y="70" class="title">Alur Login SSO Cendekia</text>
+
+  <rect x="60" y="140" width="250" height="180" class="box"/>
+  <text x="95" y="200" class="txt">1. Buka Aplikasi</text>
+  <text x="95" y="232" class="sub">Klik Masuk dengan SSO</text>
+
+  <rect x="365" y="140" width="250" height="180" class="box"/>
+  <text x="400" y="200" class="txt">2. Login SSO</text>
+  <text x="400" y="232" class="sub">Email + kata sandi</text>
+
+  <rect x="670" y="140" width="250" height="180" class="box"/>
+  <text x="705" y="200" class="txt">3. Consent</text>
+  <text x="705" y="232" class="sub">Izinkan akses aplikasi</text>
+
+  <rect x="975" y="140" width="170" height="180" class="box"/>
+  <text x="1000" y="200" class="txt">4. Selesai</text>
+  <text x="1000" y="232" class="sub">Masuk ke aplikasi</text>
+
+  <path d="M310 230 L360 230" class="arr"/>
+  <path d="M615 230 L665 230" class="arr"/>
+  <path d="M920 230 L970 230" class="arr"/>
+</svg>

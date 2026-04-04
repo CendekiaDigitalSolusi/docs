@@ -1,0 +1,22 @@
+{
+  "id": "central-app/dasar/data-sekolah",
+  "title": "School Data",
+  "description": "If you have just created an account via Scholar SSO, you are required to fill in your school data the first time you use Gradynex.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/central-app/dasar/data-sekolah.md",
+  "sourceDirName": "central-app/dasar",
+  "slug": "/central-app/dasar/data-sekolah",
+  "permalink": "/en/gradynex/central-app/dasar/data-sekolah",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Forgot Password",
+    "permalink": "/en/gradynex/central-app/autentikasi/lupa-kata-sandi"
+  }
+}

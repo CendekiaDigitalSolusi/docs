@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+  <defs>
+    <style>
+      .title{font:700 30px Arial,sans-serif;fill:#12344d}
+      .card{fill:#ffffff;stroke:#b9d6ea;stroke-width:3;rx:18}
+      .h{font:700 24px Arial,sans-serif;fill:#12344d}
+      .p{font:400 18px Arial,sans-serif;fill:#35566d}
+      .btnA{fill:#0a7c3b;rx:10}
+      .btnD{fill:#b83a3a;rx:10}
+      .bt{font:700 18px Arial,sans-serif;fill:#fff}
+      .badge{fill:#edf6ff;stroke:#9cc3df;stroke-width:2;rx:10}
+      .bdt{font:600 16px Arial,sans-serif;fill:#194a6a}
+    </style>
+  </defs>
+
+  <rect width="1100" height="620" fill="#eef7fc"/>
+  <text x="70" y="70" class="title">Contoh Halaman Persetujuan Akses (Consent)</text>
+
+  <rect x="220" y="120" width="660" height="430" class="card"/>
+  <text x="270" y="185" class="h">Aplikasi Akademik meminta akses akun Anda</text>
+  <text x="270" y="225" class="p">Data yang diminta:</text>
+
+  <rect x="270" y="250" width="160" height="44" class="badge"/>
+  <text x="300" y="279" class="bdt">openid</text>
+
+  <rect x="445" y="250" width="160" height="44" class="badge"/>
+  <text x="493" y="279" class="bdt">email</text>
+
+  <rect x="620" y="250" width="160" height="44" class="badge"/>
+  <text x="664" y="279" class="bdt">profile</text>
+
+  <text x="270" y="340" class="p">Lanjutkan hanya jika aplikasi dan domain sudah Anda kenal.</text>
+
+  <rect x="270" y="400" width="180" height="56" class="btnD"/>
+  <text x="335" y="435" class="bt">Tolak</text>
+
+  <rect x="470" y="400" width="260" height="56" class="btnA"/>
+  <text x="555" y="435" class="bt">Izinkan</text>
+</svg>

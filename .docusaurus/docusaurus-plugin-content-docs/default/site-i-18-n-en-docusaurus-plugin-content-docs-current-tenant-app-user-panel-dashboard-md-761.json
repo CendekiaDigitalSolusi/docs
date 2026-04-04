@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/user-panel/dashboard",
+  "title": "User Dashboard",
+  "description": "User Dashboard is the main page once you are successful enter. Here you can see summary information and quick access to key features according to your access rights.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/user-panel/dashboard.md",
+  "sourceDirName": "tenant-app/user-panel",
+  "slug": "/tenant-app/user-panel/dashboard",
+  "permalink": "/en/gradynex/tenant-app/user-panel/dashboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Forgot Password",
+    "permalink": "/en/gradynex/tenant-app/autentikasi/lupa-kata-sandi"
+  },
+  "next": {
+    "title": "Admin Dashboard",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/dashboard-admin"
+  }
+}

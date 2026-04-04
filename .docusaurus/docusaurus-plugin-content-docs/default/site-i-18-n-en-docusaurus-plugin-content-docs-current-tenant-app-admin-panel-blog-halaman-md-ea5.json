@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/halaman",
+  "title": "Page",
+  "description": "Pages are static content on your school website that are suitable for content that rarely changes.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/blog/halaman.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/halaman",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/blog/halaman",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "News",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/berita"
+  },
+  "next": {
+    "title": "Category",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/kategori"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/tampilan/modul",
+  "title": "Module",
+  "description": "The Module page is used to activate or deactivate features available on the school website.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/tampilan/modul.md",
+  "sourceDirName": "tenant-app/admin-panel/tampilan",
+  "slug": "/tenant-app/admin-panel/tampilan/modul",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/modul",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Menu",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/menu"
+  },
+  "next": {
+    "title": "Theme",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/tema"
+  }
+}

@@ -26,7 +26,6 @@ const sidebars = {
       type: 'category',
       label: 'Autentikasi',
       items: [
-        'central-app/autentikasi/registrasi',
         'central-app/autentikasi/masuk',
         'central-app/autentikasi/lupa-kata-sandi',
       ],
@@ -59,6 +58,7 @@ const sidebars = {
         {
           type: 'category',
           label: 'Blog',
+          key: 'tenant-admin-blog',
           items: [
             'tenant-app/admin-panel/blog/berita',
             'tenant-app/admin-panel/blog/halaman',
@@ -87,6 +87,7 @@ const sidebars = {
             {
               type: 'category',
               label: 'Blog',
+              key: 'tenant-settings-blog',
               items: [
                 'tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca',
                 'tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi',

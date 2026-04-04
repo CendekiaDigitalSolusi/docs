@@ -1,166 +1,209 @@
 {
-  "/gradynex-433": {
+  "/en/search-62b": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "138e0e15"
+    }
+  },
+  "/en/gradynex-4e7": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/gradynex-7a9": {
+  "/en/gradynex-69f": {
     "__comp": "a7bd4aaa",
-    "__props": "508f485c"
+    "__props": "a14a670e"
   },
-  "/gradynex-1b7": {
+  "/en/gradynex-80b": {
     "__comp": "a94703ab"
   },
-  "/gradynex/-00e": {
+  "/en/gradynex/-5c5": {
     "__comp": "17896441",
-    "content": "167137db"
+    "content": "59333fb1"
   },
-  "/gradynex/central-app/autentikasi/lupa-kata-sandi-914": {
+  "/en/gradynex/central-app/autentikasi/lupa-kata-sandi-d12": {
     "__comp": "17896441",
-    "content": "b845dc78"
+    "content": "e35e3831"
   },
-  "/gradynex/central-app/autentikasi/masuk-3fd": {
+  "/en/gradynex/central-app/autentikasi/masuk-eb5": {
     "__comp": "17896441",
-    "content": "a86b458b"
+    "content": "4f28ca87"
   },
-  "/gradynex/central-app/autentikasi/registrasi-ca5": {
+  "/en/gradynex/central-app/dasar/berlangganan-cf7": {
     "__comp": "17896441",
-    "content": "6efa476c"
+    "content": "197f23dd"
   },
-  "/gradynex/central-app/dasar/berlangganan-6c3": {
+  "/en/gradynex/central-app/dasar/data-sekolah-6b6": {
     "__comp": "17896441",
-    "content": "a33215dc"
+    "content": "b4e906c7"
   },
-  "/gradynex/central-app/dasar/data-sekolah-55b": {
+  "/en/gradynex/central-app/dasar/trial-746": {
     "__comp": "17896441",
-    "content": "1ef300d8"
+    "content": "e4314f96"
   },
-  "/gradynex/central-app/dasar/trial-1a6": {
+  "/en/gradynex/central-app/intro-c19": {
     "__comp": "17896441",
-    "content": "d9298623"
+    "content": "6798f5ad"
   },
-  "/gradynex/central-app/intro-6d6": {
+  "/en/gradynex/central-app/memulai-fc6": {
     "__comp": "17896441",
-    "content": "2467db46"
+    "content": "cdcd0d35"
   },
-  "/gradynex/central-app/memulai-11c": {
+  "/en/gradynex/help-center/faq-d93": {
     "__comp": "17896441",
-    "content": "283e8d7c"
+    "content": "4f340129"
   },
-  "/gradynex/help-center/faq-27c": {
+  "/en/gradynex/help-center/troubleshooting-540": {
     "__comp": "17896441",
-    "content": "83dcf649"
+    "content": "5be51c68"
   },
-  "/gradynex/help-center/troubleshooting-255": {
+  "/en/gradynex/intro-128": {
     "__comp": "17896441",
-    "content": "8e0d65b0"
+    "content": "5b44acae"
   },
-  "/gradynex/intro-0b9": {
+  "/en/gradynex/tenant-app/admin-panel/blog/-a3b": {
     "__comp": "17896441",
-    "content": "f8ce1924"
+    "content": "a489ce5a"
   },
-  "/gradynex/tenant-app/admin-panel/blog/-e33": {
+  "/en/gradynex/tenant-app/admin-panel/blog/berita-324": {
     "__comp": "17896441",
-    "content": "254682bb"
+    "content": "6ff64fc8"
   },
-  "/gradynex/tenant-app/admin-panel/blog/berita-852": {
+  "/en/gradynex/tenant-app/admin-panel/blog/halaman-bc5": {
     "__comp": "17896441",
-    "content": "8e7ddb3e"
+    "content": "ea5fb59a"
   },
-  "/gradynex/tenant-app/admin-panel/blog/halaman-a7b": {
+  "/en/gradynex/tenant-app/admin-panel/blog/kategori-153": {
     "__comp": "17896441",
-    "content": "ddc1c883"
+    "content": "a395fbad"
   },
-  "/gradynex/tenant-app/admin-panel/blog/kategori-02f": {
+  "/en/gradynex/tenant-app/admin-panel/blog/komentar-ff2": {
     "__comp": "17896441",
-    "content": "2de1d8fd"
+    "content": "11906ce2"
   },
-  "/gradynex/tenant-app/admin-panel/blog/komentar-b74": {
+  "/en/gradynex/tenant-app/admin-panel/blog/slider-gambar-375": {
     "__comp": "17896441",
-    "content": "1a496d0f"
+    "content": "46e82ef9"
   },
-  "/gradynex/tenant-app/admin-panel/blog/slider-gambar-6f4": {
+  "/en/gradynex/tenant-app/admin-panel/blog/tag-da1": {
     "__comp": "17896441",
-    "content": "a7fb44b8"
+    "content": "a2f65186"
   },
-  "/gradynex/tenant-app/admin-panel/blog/tag-d7d": {
+  "/en/gradynex/tenant-app/admin-panel/dashboard-admin-6ff": {
     "__comp": "17896441",
-    "content": "8ffc7e12"
+    "content": "b369298d"
   },
-  "/gradynex/tenant-app/admin-panel/dashboard-admin-9ae": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/-527": {
     "__comp": "17896441",
-    "content": "a9423f2d"
+    "content": "9c6908b3"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/-4e6": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/-cbf": {
     "__comp": "17896441",
-    "content": "38de3266"
+    "content": "4081a275"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/blog/-6d7": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi-476": {
     "__comp": "17896441",
-    "content": "f4f01a47"
+    "content": "c6ebbbbf"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-diskusi-b9e": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca-f98": {
     "__comp": "17896441",
-    "content": "1d5de51b"
+    "content": "5187b93f"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca-c16": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email-d93": {
     "__comp": "17896441",
-    "content": "1c4818fa"
+    "content": "112f18e0"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email-738": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum-b45": {
     "__comp": "17896441",
-    "content": "127388d9"
+    "content": "34e1986f"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-umum-c9f": {
+  "/en/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah-da0": {
     "__comp": "17896441",
-    "content": "cc08125b"
+    "content": "f5e1acba"
   },
-  "/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah-bec": {
+  "/en/gradynex/tenant-app/admin-panel/pengguna-dc0": {
     "__comp": "17896441",
-    "content": "1c321e7c"
+    "content": "31b0916c"
   },
-  "/gradynex/tenant-app/admin-panel/pengguna-c0e": {
+  "/en/gradynex/tenant-app/admin-panel/peran-685": {
     "__comp": "17896441",
-    "content": "327732a8"
+    "content": "3e031271"
   },
-  "/gradynex/tenant-app/admin-panel/peran-efe": {
+  "/en/gradynex/tenant-app/admin-panel/tampilan/-1da": {
     "__comp": "17896441",
-    "content": "1ca481d6"
+    "content": "1cf1f0b7"
   },
-  "/gradynex/tenant-app/admin-panel/tampilan/-94e": {
+  "/en/gradynex/tenant-app/admin-panel/tampilan/menu-d86": {
     "__comp": "17896441",
-    "content": "a96e1706"
+    "content": "8cb668a2"
   },
-  "/gradynex/tenant-app/admin-panel/tampilan/menu-7b9": {
+  "/en/gradynex/tenant-app/admin-panel/tampilan/modul-bc4": {
     "__comp": "17896441",
-    "content": "cf80c717"
+    "content": "247950fc"
   },
-  "/gradynex/tenant-app/admin-panel/tampilan/modul-8f6": {
+  "/en/gradynex/tenant-app/admin-panel/tampilan/tema-f96": {
     "__comp": "17896441",
-    "content": "4d689c96"
+    "content": "21400887"
   },
-  "/gradynex/tenant-app/admin-panel/tampilan/tema-6b7": {
+  "/en/gradynex/tenant-app/autentikasi/lupa-kata-sandi-676": {
     "__comp": "17896441",
-    "content": "7acdda52"
+    "content": "e0a4c338"
   },
-  "/gradynex/tenant-app/autentikasi/lupa-kata-sandi-d17": {
+  "/en/gradynex/tenant-app/autentikasi/masuk-eef": {
     "__comp": "17896441",
-    "content": "d6c679e6"
+    "content": "c6006012"
   },
-  "/gradynex/tenant-app/autentikasi/masuk-942": {
+  "/en/gradynex/tenant-app/intro-779": {
     "__comp": "17896441",
-    "content": "299045eb"
+    "content": "8fa730b9"
   },
-  "/gradynex/tenant-app/intro-693": {
+  "/en/gradynex/tenant-app/user-panel/dashboard-79d": {
     "__comp": "17896441",
-    "content": "c4ce42db"
+    "content": "761e651f"
   },
-  "/gradynex/tenant-app/user-panel/dashboard-993": {
+  "/en/sso-cendekia-4a9": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "86ed7872"
+    }
+  },
+  "/en/sso-cendekia-24a": {
+    "__comp": "a7bd4aaa",
+    "__props": "dc0822fb"
+  },
+  "/en/sso-cendekia-946": {
+    "__comp": "a94703ab"
+  },
+  "/en/sso-cendekia/-958": {
     "__comp": "17896441",
-    "content": "0cf52acf"
+    "content": "1c166a21"
   },
-  "/-2e1": {
+  "/en/sso-cendekia/pengguna/daftar-6c3": {
+    "__comp": "17896441",
+    "content": "760db03a"
+  },
+  "/en/sso-cendekia/pengguna/faq-37c": {
+    "__comp": "17896441",
+    "content": "850d74db"
+  },
+  "/en/sso-cendekia/pengguna/login-sosial-f47": {
+    "__comp": "17896441",
+    "content": "5978217e"
+  },
+  "/en/sso-cendekia/pengguna/lupa-kata-sandi-333": {
+    "__comp": "17896441",
+    "content": "7f3d5c5d"
+  },
+  "/en/sso-cendekia/pengguna/masuk-37d": {
+    "__comp": "17896441",
+    "content": "855f5f7a"
+  },
+  "/en/sso-cendekia/pengguna/otorisasi-aplikasi-7ad": {
+    "__comp": "17896441",
+    "content": "967a6e12"
+  },
+  "/en/-d3c": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

@@ -1,0 +1,17 @@
+{
+  "id": "index",
+  "title": "Gradynex",
+  "description": "This page is the main entry point to Gradynex documentation.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/en/gradynex/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gradynex",
+    "slug": "/"
+  }
+}

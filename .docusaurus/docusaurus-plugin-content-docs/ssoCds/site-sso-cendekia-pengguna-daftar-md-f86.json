@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/daftar",
+  "title": "Cara Daftar Akun Baru",
+  "description": "Langkah Pendaftaran",
+  "source": "@site/sso-cendekia/pengguna/daftar.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/daftar",
+  "permalink": "/sso-cendekia/pengguna/daftar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Cara Masuk (Login)",
+    "permalink": "/sso-cendekia/pengguna/masuk"
+  },
+  "next": {
+    "title": "Lupa Kata Sandi",
+    "permalink": "/sso-cendekia/pengguna/lupa-kata-sandi"
+  }
+}

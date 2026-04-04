@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/autentikasi/lupa-kata-sandi",
+  "title": "Forgot Password",
+  "description": "If you forget your Gradynex tenant account password, use the following reset process.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/autentikasi/lupa-kata-sandi.md",
+  "sourceDirName": "tenant-app/autentikasi",
+  "slug": "/tenant-app/autentikasi/lupa-kata-sandi",
+  "permalink": "/en/gradynex/tenant-app/autentikasi/lupa-kata-sandi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "How to Enter (Login)",
+    "permalink": "/en/gradynex/tenant-app/autentikasi/masuk"
+  },
+  "next": {
+    "title": "User Dashboard",
+    "permalink": "/en/gradynex/tenant-app/user-panel/dashboard"
+  }
+}

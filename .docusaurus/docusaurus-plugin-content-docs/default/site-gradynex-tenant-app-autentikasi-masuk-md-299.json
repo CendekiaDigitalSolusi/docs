@@ -1,7 +1,7 @@
 {
   "id": "tenant-app/autentikasi/masuk",
-  "title": "Masuk",
-  "description": "Pastikan Anda sudah punya akun terlebih dahulu. Jika belum punya akun, silakan hubungi administrator sekolah Anda.",
+  "title": "Cara Masuk (Login)",
+  "description": "Untuk mengakses aplikasi tenant Gradynex, Anda perlu memiliki akun yang sudah terdaftar. Jika belum punya akun, hubungi administrator sekolah Anda.",
   "source": "@site/gradynex/tenant-app/autentikasi/masuk.md",
   "sourceDirName": "tenant-app/autentikasi",
   "slug": "/tenant-app/autentikasi/masuk",

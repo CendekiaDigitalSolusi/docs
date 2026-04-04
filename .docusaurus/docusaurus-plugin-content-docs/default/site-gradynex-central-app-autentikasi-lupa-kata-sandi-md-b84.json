@@ -1,7 +1,7 @@
 {
   "id": "central-app/autentikasi/lupa-kata-sandi",
   "title": "Lupa Kata Sandi",
-  "description": "Jika Anda lupa kata sandi dari akun Anda, Anda dapat melakukan permintaan untuk mengganti kata sandi Anda hanya dengan menggunakan email.",
+  "description": "Jika Anda lupa kata sandi akun SSO Cendekia yang dipakai untuk masuk ke Gradynex, gunakan proses reset berikut.",
   "source": "@site/gradynex/central-app/autentikasi/lupa-kata-sandi.md",
   "sourceDirName": "central-app/autentikasi",
   "slug": "/central-app/autentikasi/lupa-kata-sandi",
@@ -16,7 +16,7 @@
   },
   "sidebar": "centralSidebar",
   "previous": {
-    "title": "Masuk",
+    "title": "Cara Masuk (Login)",
     "permalink": "/gradynex/central-app/autentikasi/masuk"
   },
   "next": {

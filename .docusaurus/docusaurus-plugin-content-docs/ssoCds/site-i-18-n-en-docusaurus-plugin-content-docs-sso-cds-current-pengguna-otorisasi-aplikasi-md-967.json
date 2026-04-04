@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/otorisasi-aplikasi",
+  "title": "Application Access Approval (Consent)",
+  "description": "The first time you use a particular app, you may see an access approval page.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/otorisasi-aplikasi.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/otorisasi-aplikasi",
+  "permalink": "/en/sso-cendekia/pengguna/otorisasi-aplikasi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Login with Google or Microsoft",
+    "permalink": "/en/sso-cendekia/pengguna/login-sosial"
+  },
+  "next": {
+    "title": "User FAQ",
+    "permalink": "/en/sso-cendekia/pengguna/faq"
+  }
+}

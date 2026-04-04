@@ -1,0 +1,26 @@
+{
+  "id": "central-app/autentikasi/lupa-kata-sandi",
+  "title": "Forgot Password",
+  "description": "If you forget the Scholar SSO account password used to log in to Gradynex, use the reset process below.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/central-app/autentikasi/lupa-kata-sandi.md",
+  "sourceDirName": "central-app/autentikasi",
+  "slug": "/central-app/autentikasi/lupa-kata-sandi",
+  "permalink": "/en/gradynex/central-app/autentikasi/lupa-kata-sandi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "How to Enter (Login)",
+    "permalink": "/en/gradynex/central-app/autentikasi/masuk"
+  },
+  "next": {
+    "title": "School Data",
+    "permalink": "/en/gradynex/central-app/dasar/data-sekolah"
+  }
+}

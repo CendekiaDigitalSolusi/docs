@@ -11,6 +11,6 @@ Gradynex merupakan sebuah sistem manajemen sekolah terpadu dan terintegrasi. Gra
 ## Langkah Cepat
 
 1. **[Memulai](memulai.md)** - Ikuti langkah untuk memulai
-2. **[Registrasi](autentikasi/registrasi.md)** - Cara mudah membuat akun
-3. **[Masuk](autentikasi/masuk.md)** - Login ke sistem
+2. **[Cara Masuk (Login)](autentikasi/masuk.md)** - Masuk dengan akun SSO Cendekia
+3. **[Lupa Kata Sandi](autentikasi/lupa-kata-sandi.md)** - Reset password akun SSO
 4. **[Berlangganan](dasar/berlangganan.md)** - Cara mudah berlangganan

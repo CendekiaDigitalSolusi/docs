@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/peran",
+  "title": "Roles / Access Rights",
+  "description": "The Role page is used to set user roles in the application. Roles determine what menus and actions the user can access.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/peran.md",
+  "sourceDirName": "tenant-app/admin-panel",
+  "slug": "/tenant-app/admin-panel/peran",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/peran",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "User",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengguna"
+  },
+  "next": {
+    "title": "News",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/berita"
+  }
+}

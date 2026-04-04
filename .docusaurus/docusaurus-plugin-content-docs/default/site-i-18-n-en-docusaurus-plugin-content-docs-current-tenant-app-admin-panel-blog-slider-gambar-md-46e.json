@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/slider-gambar",
+  "title": "Image Slider",
+  "description": "The Image Slider page manages a list of slider images that appear on public pages (for example on the school website homepage).",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/blog/slider-gambar.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/slider-gambar",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/blog/slider-gambar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Tags",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/tag"
+  },
+  "next": {
+    "title": "Comment",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/komentar"
+  }
+}

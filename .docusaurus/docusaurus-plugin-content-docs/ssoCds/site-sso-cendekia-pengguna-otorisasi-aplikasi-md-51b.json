@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/otorisasi-aplikasi",
+  "title": "Persetujuan Akses Aplikasi (Consent)",
+  "description": "Saat pertama kali menggunakan aplikasi tertentu, kamu mungkin melihat halaman persetujuan akses.",
+  "source": "@site/sso-cendekia/pengguna/otorisasi-aplikasi.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/otorisasi-aplikasi",
+  "permalink": "/sso-cendekia/pengguna/otorisasi-aplikasi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Login dengan Google atau Microsoft",
+    "permalink": "/sso-cendekia/pengguna/login-sosial"
+  },
+  "next": {
+    "title": "FAQ Pengguna",
+    "permalink": "/sso-cendekia/pengguna/faq"
+  }
+}

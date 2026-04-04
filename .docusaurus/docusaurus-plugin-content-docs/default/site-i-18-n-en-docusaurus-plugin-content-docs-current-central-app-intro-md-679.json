@@ -1,0 +1,22 @@
+{
+  "id": "central-app/intro",
+  "title": "Central Application Documentation",
+  "description": "Welcome to the central application documentation page. This page will explain the various methods in the Gradynex system, especially the central application / application that manages your subscription or your school website.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/central-app/intro.md",
+  "sourceDirName": "central-app",
+  "slug": "/central-app/intro",
+  "permalink": "/en/gradynex/central-app/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "centralSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/en/gradynex/central-app/memulai"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/komentar",
+  "title": "Comment",
+  "description": "Comments is where you manage visitor responses to News or Pages.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/blog/komentar.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/komentar",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/blog/komentar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Image Slider",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/slider-gambar"
+  },
+  "next": {
+    "title": "Menu",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/tampilan/menu"
+  }
+}

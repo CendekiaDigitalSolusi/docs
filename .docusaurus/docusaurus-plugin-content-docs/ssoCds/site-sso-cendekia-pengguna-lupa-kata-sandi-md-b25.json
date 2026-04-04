@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/lupa-kata-sandi",
+  "title": "Lupa Kata Sandi",
+  "description": "Jika kamu lupa kata sandi, gunakan proses reset berikut.",
+  "source": "@site/sso-cendekia/pengguna/lupa-kata-sandi.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/lupa-kata-sandi",
+  "permalink": "/sso-cendekia/pengguna/lupa-kata-sandi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Cara Daftar Akun Baru",
+    "permalink": "/sso-cendekia/pengguna/daftar"
+  },
+  "next": {
+    "title": "Login dengan Google atau Microsoft",
+    "permalink": "/sso-cendekia/pengguna/login-sosial"
+  }
+}

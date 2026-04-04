@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/blog/kategori",
+  "title": "Category",
+  "description": "Categories are used to group blog content. Think of categories like “bookshelf” for news and articles.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/blog/kategori.md",
+  "sourceDirName": "tenant-app/admin-panel/blog",
+  "slug": "/tenant-app/admin-panel/blog/kategori",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/blog/kategori",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "Page",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/halaman"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/blog/tag"
+  }
+}

@@ -3,6 +3,23 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const hasAlgoliaSearch = Boolean(
+  process.env.ALGOLIA_APP_ID &&
+    process.env.ALGOLIA_API_KEY &&
+    process.env.ALGOLIA_INDEX_NAME,
+);
+
+const algoliaSearchConfig = hasAlgoliaSearch
+  ? {
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+      contextualSearch: true,
+      searchPagePath: 'search',
+      insights: false,
+    }
+  : undefined;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cendekia Platform',
@@ -20,6 +37,16 @@ const config = {
   organizationName: 'CendekiaDigitalSolusi', // Usually your GitHub org/username.
   projectName: 'docs', // Usually your repo name.
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'algolia-site-verification',
+        content: '4C298CE250841923',
+      },
+    },
+  ],
+
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
@@ -28,8 +55,35 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'id',
-    locales: ['id'],
+    locales: ['id', 'en'],
+    localeConfigs: {
+      id: {
+        label: 'Bahasa Indonesia',
+        htmlLang: 'id-ID',
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+    },
   },
+
+  themes: hasAlgoliaSearch
+    ? []
+    : [
+        [
+          require.resolve('@easyops-cn/docusaurus-search-local'),
+          {
+            hashed: true,
+            indexBlog: false,
+            indexPages: true,
+            docsDir: ['gradynex', 'sso-cendekia'],
+            docsRouteBasePath: ['/gradynex', '/sso-cendekia'],
+            searchContextByPaths: ['gradynex', 'sso-cendekia'],
+            searchBarPosition: 'right',
+          },
+        ],
+      ],
 
   presets: [
     [
@@ -53,6 +107,18 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ssoCds',
+        path: 'sso-cendekia',
+        routeBasePath: 'sso-cendekia',
+        sidebarPath: require.resolve('./sidebars-sso.js'),
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -65,6 +131,29 @@ const config = {
             to: '/',
             label: 'Home',
             position: 'left',
+          },
+          {
+            label: 'SSO Cendekia',
+            position: 'left',
+            to: '/sso-cendekia/',
+            items: [
+              {
+                label: 'Panduan Pengguna',
+                to: '/sso-cendekia/',
+              },
+              {
+                label: 'Cara Masuk',
+                to: '/sso-cendekia/pengguna/masuk',
+              },
+              {
+                label: 'Lupa Kata Sandi',
+                to: '/sso-cendekia/pengguna/lupa-kata-sandi',
+              },
+              {
+                label: 'FAQ',
+                to: '/sso-cendekia/pengguna/faq',
+              },
+            ],
           },
           {
             label: 'Gradynex',
@@ -94,6 +183,14 @@ const config = {
             label: 'Website',
             position: 'right',
           },
+          {
+            type: 'search',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -109,6 +206,10 @@ const config = {
               {
                 label: 'Aplikasi Tenant',
                 to: '/gradynex/tenant-app/intro',
+              },
+              {
+                label: 'SSO Cendekia',
+                to: '/sso-cendekia/',
               },
             ],
           },
@@ -128,6 +229,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      ...(algoliaSearchConfig ? {algolia: algoliaSearchConfig} : {}),
     }),
 };
 

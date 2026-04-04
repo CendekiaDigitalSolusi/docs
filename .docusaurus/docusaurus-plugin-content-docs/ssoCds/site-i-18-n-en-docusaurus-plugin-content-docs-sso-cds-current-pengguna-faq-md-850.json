@@ -1,0 +1,22 @@
+{
+  "id": "pengguna/faq",
+  "title": "User FAQ",
+  "description": "I have logged in but returned to the login page again",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/faq.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/faq",
+  "permalink": "/en/sso-cendekia/pengguna/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "Application Access Approval (Consent)",
+    "permalink": "/en/sso-cendekia/pengguna/otorisasi-aplikasi"
+  }
+}

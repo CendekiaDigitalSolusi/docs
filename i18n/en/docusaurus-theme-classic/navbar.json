@@ -1,0 +1,54 @@
+{
+  "title": {
+    "message": "Cendekia",
+    "description": "The title in the navbar"
+  },
+  "item.label.Home": {
+    "message": "Home",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.SSO Cendekia": {
+    "message": "SSO Cendekia",
+    "description": "Navbar item with label SSO Cendekia"
+  },
+  "item.label.Gradynex": {
+    "message": "Gradynex",
+    "description": "Navbar item with label Gradynex"
+  },
+  "item.label.Website": {
+    "message": "Website",
+    "description": "Navbar item with label Website"
+  },
+  "item.label.Panduan Pengguna": {
+    "message": "User Guide",
+    "description": "Navbar item with label Panduan Pengguna"
+  },
+  "item.label.Cara Masuk": {
+    "message": "Sign In",
+    "description": "Navbar item with label Cara Masuk"
+  },
+  "item.label.Lupa Kata Sandi": {
+    "message": "Forgot Password",
+    "description": "Navbar item with label Lupa Kata Sandi"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.Overview": {
+    "message": "Overview",
+    "description": "Navbar item with label Overview"
+  },
+  "item.label.Central App": {
+    "message": "Central App",
+    "description": "Navbar item with label Central App"
+  },
+  "item.label.Tenant App": {
+    "message": "Tenant App",
+    "description": "Navbar item with label Tenant App"
+  },
+  "item.label.Help Center": {
+    "message": "Help Center",
+    "description": "Navbar item with label Help Center"
+  }
+}

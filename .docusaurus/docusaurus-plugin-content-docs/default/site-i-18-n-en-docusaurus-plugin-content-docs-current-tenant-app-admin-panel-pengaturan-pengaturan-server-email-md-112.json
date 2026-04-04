@@ -1,0 +1,26 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "title": "Email Server Settings",
+  "description": "The Email Server Settings page determines the email server that the application uses to send automatic emails.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/pengaturan/pengaturan-server-email.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan",
+  "slug": "/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/pengaturan-server-email",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tenantSidebar",
+  "previous": {
+    "title": "School Profile",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/profil-sekolah"
+  },
+  "next": {
+    "title": "Reading Settings",
+    "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/pengaturan-membaca"
+  }
+}

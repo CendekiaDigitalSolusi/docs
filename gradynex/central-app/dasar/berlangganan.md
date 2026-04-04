@@ -8,9 +8,9 @@ Untuk berlangganan, Anda harus memenuhi beberapa persyaratan terlebih dahulu.
 
 :::info
 Persyaratan berlangganan:
-- Sudah [registrasi](../autentikasi/registrasi.md)
-- Sudah melengkapi [data sekolah](./data-sekolah.md)
+- Sudah memiliki akun SSO Cendekia
 - Sudah [login](../autentikasi/masuk.md) ke akun Anda
+- Sudah melengkapi [data sekolah](./data-sekolah.md)
 :::
 
 ## Langkah-Langkah Berlangganan

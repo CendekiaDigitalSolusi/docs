@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/daftar",
+  "title": "How to Register a New Account",
+  "description": "Registration Steps",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/daftar.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/daftar",
+  "permalink": "/en/sso-cendekia/pengguna/daftar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "How to Enter (Login)",
+    "permalink": "/en/sso-cendekia/pengguna/masuk"
+  },
+  "next": {
+    "title": "Forgot Password",
+    "permalink": "/en/sso-cendekia/pengguna/lupa-kata-sandi"
+  }
+}

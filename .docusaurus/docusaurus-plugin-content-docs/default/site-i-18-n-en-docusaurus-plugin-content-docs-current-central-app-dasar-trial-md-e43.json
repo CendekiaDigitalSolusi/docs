@@ -1,0 +1,26 @@
+{
+  "id": "central-app/dasar/trial",
+  "title": "Trial",
+  "description": "Gradynex offers a 14-day free trial package for new users who want to try our service.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/central-app/dasar/trial.md",
+  "sourceDirName": "central-app/dasar",
+  "slug": "/central-app/dasar/trial",
+  "permalink": "/en/gradynex/central-app/dasar/trial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "centralSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/en/gradynex/central-app/memulai"
+  },
+  "next": {
+    "title": "Subscribe",
+    "permalink": "/en/gradynex/central-app/dasar/berlangganan"
+  }
+}

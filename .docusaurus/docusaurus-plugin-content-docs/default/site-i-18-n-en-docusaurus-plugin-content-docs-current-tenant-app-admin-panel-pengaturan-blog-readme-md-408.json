@@ -1,0 +1,17 @@
+{
+  "id": "tenant-app/admin-panel/pengaturan/blog/README",
+  "title": "Blog Settings",
+  "description": "This module manages the configuration for the blog feature on the school website.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tenant-app/admin-panel/pengaturan/blog/README.md",
+  "sourceDirName": "tenant-app/admin-panel/pengaturan/blog",
+  "slug": "/tenant-app/admin-panel/pengaturan/blog/",
+  "permalink": "/en/gradynex/tenant-app/admin-panel/pengaturan/blog/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

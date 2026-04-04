@@ -1,0 +1,26 @@
+{
+  "id": "pengguna/lupa-kata-sandi",
+  "title": "Forgot Password",
+  "description": "If you forget your password, use the following reset process.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/lupa-kata-sandi.md",
+  "sourceDirName": "pengguna",
+  "slug": "/pengguna/lupa-kata-sandi",
+  "permalink": "/en/sso-cendekia/pengguna/lupa-kata-sandi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "ssoCdsSidebar",
+  "previous": {
+    "title": "How to Register a New Account",
+    "permalink": "/en/sso-cendekia/pengguna/daftar"
+  },
+  "next": {
+    "title": "Login with Google or Microsoft",
+    "permalink": "/en/sso-cendekia/pengguna/login-sosial"
+  }
+}
