@@ -11,6 +11,15 @@ export default {
   "baseUrl": "/en/",
   "organizationName": "CendekiaDigitalSolusi",
   "projectName": "docs",
+  "headTags": [
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "algolia-site-verification",
+        "content": "4C298CE250841923"
+      }
+    }
+  ],
   "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "id",
@@ -442,7 +451,6 @@ export default {
   ],
   "customFields": {},
   "scripts": [],
-  "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",

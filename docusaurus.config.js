@@ -37,6 +37,16 @@ const config = {
   organizationName: 'CendekiaDigitalSolusi', // Usually your GitHub org/username.
   projectName: 'docs', // Usually your repo name.
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'algolia-site-verification',
+        content: '4C298CE250841923',
+      },
+    },
+  ],
+
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
