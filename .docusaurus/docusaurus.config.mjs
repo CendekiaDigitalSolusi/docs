@@ -41,7 +41,7 @@ export default {
   },
   "themes": [
     [
-      "/workspaces/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/vercel/sandbox/primary/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true,
         "indexBlog": false,
@@ -70,11 +70,11 @@ export default {
         "docs": {
           "path": "gradynex",
           "routeBasePath": "gradynex",
-          "sidebarPath": "/workspaces/docs/sidebars.js"
+          "sidebarPath": "/vercel/sandbox/primary/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/workspaces/docs/src/css/custom.css"
+          "customCss": "/vercel/sandbox/primary/src/css/custom.css"
         }
       }
     ]
@@ -86,7 +86,7 @@ export default {
         "id": "ssoCds",
         "path": "sso-cendekia",
         "routeBasePath": "sso-cendekia",
-        "sidebarPath": "/workspaces/docs/sidebars-sso.js"
+        "sidebarPath": "/vercel/sandbox/primary/sidebars-sso.js"
       }
     ],
     [
