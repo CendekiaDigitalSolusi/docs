@@ -41,7 +41,7 @@ export default {
   },
   "themes": [
     [
-      "/vercel/sandbox/primary/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/workspaces/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true,
         "indexBlog": false,
@@ -58,6 +58,7 @@ export default {
           "gradynex",
           "sso-cendekia"
         ],
+        "useAllContextsWithNoSearchContext": true,
         "searchBarPosition": "right"
       }
     ]
@@ -69,11 +70,11 @@ export default {
         "docs": {
           "path": "gradynex",
           "routeBasePath": "gradynex",
-          "sidebarPath": "/vercel/sandbox/primary/sidebars.js"
+          "sidebarPath": "/workspaces/docs/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/vercel/sandbox/primary/src/css/custom.css"
+          "customCss": "/workspaces/docs/src/css/custom.css"
         }
       }
     ]
@@ -85,7 +86,7 @@ export default {
         "id": "ssoCds",
         "path": "sso-cendekia",
         "routeBasePath": "sso-cendekia",
-        "sidebarPath": "/vercel/sandbox/primary/sidebars-sso.js"
+        "sidebarPath": "/workspaces/docs/sidebars-sso.js"
       }
     ],
     [

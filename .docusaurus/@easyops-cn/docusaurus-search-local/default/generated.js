@@ -10,5 +10,5 @@ export const docsPluginIdForPreferredVersion = undefined;
 export const indexDocs = true;
 export const searchContextByPaths = ["gradynex","sso-cendekia"];
 export const hideSearchBarWithNoSearchContext = false;
-export const useAllContextsWithNoSearchContext = false;
+export const useAllContextsWithNoSearchContext = true;
 export const askAi = null;
