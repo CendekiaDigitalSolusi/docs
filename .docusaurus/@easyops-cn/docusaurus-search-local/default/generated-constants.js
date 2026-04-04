@@ -1,4 +1,4 @@
-import lunr from "/vercel/sandbox/primary/node_modules/lunr/lunr.js";
+import lunr from "/workspaces/docs/node_modules/lunr/lunr.js";
 export const removeDefaultStopWordFilter = [];
 export const language = ["en"];
 export const searchIndexUrl = "search-index{dir}.json?_=0eaf2ae8";

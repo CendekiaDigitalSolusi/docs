@@ -80,6 +80,7 @@ const config = {
             docsDir: ['gradynex', 'sso-cendekia'],
             docsRouteBasePath: ['/gradynex', '/sso-cendekia'],
             searchContextByPaths: ['gradynex', 'sso-cendekia'],
+            useAllContextsWithNoSearchContext: true,
             searchBarPosition: 'right',
           },
         ],
