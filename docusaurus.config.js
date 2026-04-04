@@ -117,6 +117,13 @@ const config = {
         sidebarPath: require.resolve('./sidebars-sso.js'),
       },
     ],
+    [
+      '@docusaurus/plugin-vercel-analytics',
+      {
+        debug: false,
+        mode: 'auto',
+      },
+    ],
   ],
 
   themeConfig:
