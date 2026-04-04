@@ -269,5 +269,12 @@
       ],
       "breadcrumbs": true
     }
+  },
+  "docusaurus-plugin-vercel-analytics": {
+    "default": {
+      "debug": false,
+      "mode": "auto",
+      "id": "default"
+    }
   }
 }
