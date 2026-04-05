@@ -1,7 +1,7 @@
 {
   "id": "pengguna/login-sosial",
   "title": "Login with Google or Microsoft",
-  "description": "Scholar SSO supports social login to make the login process faster.",
+  "description": "SSO Cendekia supports social login to make the login process faster.",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/pengguna/login-sosial.md",
   "sourceDirName": "pengguna",
   "slug": "/pengguna/login-sosial",

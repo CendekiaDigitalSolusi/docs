@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Login with Google or Microsoft
 
-Scholar SSO supports social login to make the login process faster.
+SSO Cendekia supports social login to make the login process faster.
 
 ## Social Login Steps
 

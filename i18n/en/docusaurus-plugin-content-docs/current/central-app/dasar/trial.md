@@ -8,7 +8,7 @@ Gradynex offers a 14-day free trial package for new users who want to try our se
 
 :::info
 To use our trial, you must:
-- Already have a Scholar SSO account
+- Already have a SSO Cendekia account
 - Already [login](../autentikasi/masuk.md) to your account
 - It's complete [school data](./data-sekolah.md)
 :::

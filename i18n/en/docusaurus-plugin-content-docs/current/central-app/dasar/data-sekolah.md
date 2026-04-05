@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # School Data
 
-If you have just created an account via Scholar SSO, you are required to fill in your school data the first time you use Gradynex.
+If you have just created an account via SSO Cendekia, you are required to fill in your school data the first time you use Gradynex.
 
 :::warning
 Filling in this school data is **mandatory** for the verification process. If it is not filled in, you cannot subscribe to Gradynex.

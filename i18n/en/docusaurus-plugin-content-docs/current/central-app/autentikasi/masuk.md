@@ -13,7 +13,7 @@ sidebar_position: 2
 5. If successful, you will return to the original application.
 
 :::info
-Gradynex accounts use the Scholar SSO (Single Sign-On) system.
+Gradynex accounts use the SSO Cendekia (Single Sign-On) system.
 
 - If you don't have an account, register on the page [SSO Cendekia - Register](https://accounts.cendekiadigitalsolusi.co.id/register).
 - If you forget your password, use the guide [Forgot Password](./lupa-kata-sandi.md).
@@ -21,7 +21,7 @@ Gradynex accounts use the Scholar SSO (Single Sign-On) system.
 
 ## Other Authentication Methods
 
-In addition to email and password, you can also log in using supported social accounts on the Scholar SSO page:
+In addition to email and password, you can also log in using supported social accounts on the SSO Cendekia page:
 
 - Google
 - Microsoft

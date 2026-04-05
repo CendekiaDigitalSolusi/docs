@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # SSO Cendekia Documentation Hub
 
-This guide is intended for end users to be able to log in to applications connected to Scholar SSO quickly and securely.
+This guide is intended for end users to be able to log in to applications connected to SSO Cendekia quickly and securely.
 
-## What is Scholar SSO?
+## What is SSO Cendekia?
 
-Scholar SSO is a Single Sign-On (SSO) system that allows users to access multiple applications and services with one unified account. With Scholar SSO, you don't need to create and remember separate passwords for each application.
+SSO Cendekia is a Single Sign-On (SSO) system that allows users to access multiple applications and services with one unified account. With SSO Cendekia, you don't need to create and remember separate passwords for each application.
 
 ### Main Function
 

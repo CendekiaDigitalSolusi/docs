@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "SSO Cendekia",
-  "description": "This guide is intended for end users to be able to log in to applications connected to Scholar SSO quickly and securely.",
+  "description": "This guide is intended for end users to be able to log in to applications connected to SSO Cendekia quickly and securely.",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs-ssoCds/current/index.md",
   "sourceDirName": ".",
   "slug": "/",

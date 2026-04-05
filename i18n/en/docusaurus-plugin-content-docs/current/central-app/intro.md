@@ -11,6 +11,6 @@ Gradynex is a unified and integrated school management system. Gradynex provides
 ## Quick Steps
 
 1. **[Start](memulai.md)** - Follow the steps to get started
-2. **[How to Enter (Login)](autentikasi/masuk.md)** - Log in with a Scholar SSO account
+2. **[How to Enter (Login)](autentikasi/masuk.md)** - Log in with a SSO Cendekia account
 3. **[Forgot Password](autentikasi/lupa-kata-sandi.md)** - Reset SSO account password
 4. **[Subscribe](dasar/berlangganan.md)** - Easy way to subscribe

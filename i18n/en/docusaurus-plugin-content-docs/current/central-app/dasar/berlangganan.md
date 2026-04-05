@@ -8,7 +8,7 @@ To subscribe, you must meet several requirements first.
 
 :::info
 Subscription requirements:
-- Already have a Scholar SSO account
+- Already have a SSO Cendekia account
 - Already [login](../autentikasi/masuk.md) to your account
 - It's complete [school data](./data-sekolah.md)
 :::

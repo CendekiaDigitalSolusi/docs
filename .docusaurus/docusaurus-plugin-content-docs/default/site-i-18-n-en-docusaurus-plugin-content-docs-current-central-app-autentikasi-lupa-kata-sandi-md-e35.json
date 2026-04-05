@@ -1,7 +1,7 @@
 {
   "id": "central-app/autentikasi/lupa-kata-sandi",
   "title": "Forgot Password",
-  "description": "If you forget the Scholar SSO account password used to log in to Gradynex, use the reset process below.",
+  "description": "If you forget the SSO Cendekia account password used to log in to Gradynex, use the reset process below.",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/central-app/autentikasi/lupa-kata-sandi.md",
   "sourceDirName": "central-app/autentikasi",
   "slug": "/central-app/autentikasi/lupa-kata-sandi",
